@@ -1,0 +1,2064 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet href="https://www.blogger.com/styles/atom.css" type="text/css"?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:thr='http://purl.org/syndication/thread/1.0' xmlns:georss='http://www.georss.org/georss'><id>tag:blogger.com,1999:blog-2681397194078422720.archive</id><updated>2021-01-18T02:50:46.846-08:00</updated><title type='text'>CDVL91 sites d'activité de l'essonne</title><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/archive'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/archive'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/archive'/><link rel='alternate' type='text/html' href='http://cdvl91-sites-activites-en-essonne.blogspot.com/'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author><generator version='7.00' uri='https://www.blogger.com'>Blogger</generator><entry><id>tag:blogger.com,1999:blog-2681397194078422720.layout</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#template'/><title type='text'>Modèle: CDVL91 sites d'activité de l'essonne</title><content type='text'>&lt;?xml version="1.0" encoding="UTF-8" ?&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html b:version='2' class='v2' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'&gt;
+  &lt;head&gt;
+    &lt;meta expr:content='data:blog.isMobile         ? &amp;quot;width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0&amp;quot;         : &amp;quot;width=1100&amp;quot;' name='viewport'/&gt;
+    &lt;b:include data='blog' name='all-head-content'/&gt;
+    &lt;title&gt;&lt;data:blog.pageTitle/&gt;&lt;/title&gt;
+
+    &lt;b:skin&gt;&lt;![CDATA[/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Simple
+Designer: Blogger
+URL:      www.blogger.com
+----------------------------------------------- */
+
+/* Variable definitions
+   ====================
+   &lt;Variable name="keycolor" description="Main Color" type="color" default="#66bbdd" value="#cc6611"/&gt;
+
+   &lt;Group description="Page Text" selector="body"&gt;
+     &lt;Variable name="body.font" description="Font" type="font"
+         default="normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif" value="normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/&gt;
+     &lt;Variable name="body.text.color" description="Text Color" type="color" default="#222222" value="#222222"/&gt;
+   &lt;/Group&gt;
+
+   &lt;Group description="Backgrounds" selector=".body-fauxcolumns-outer"&gt;
+     &lt;Variable name="body.background.color" description="Outer Background" type="color" default="#66bbdd" value="#eeaa00"/&gt;
+     &lt;Variable name="content.background.color" description="Main Background" type="color" default="#ffffff" value="#ffffff"/&gt;
+     &lt;Variable name="header.background.color" description="Header Background" type="color" default="transparent" value="#cc6611"/&gt;
+   &lt;/Group&gt;
+
+   &lt;Group description="Links" selector=".main-outer"&gt;
+     &lt;Variable name="link.color" description="Link Color" type="color" default="#2288bb" value="#cc6611"/&gt;
+     &lt;Variable name="link.visited.color" description="Visited Color" type="color" default="#888888" value="#888888"/&gt;
+     &lt;Variable name="link.hover.color" description="Hover Color" type="color" default="#33aaff" value="#ff9900"/&gt;
+   &lt;/Group&gt;
+
+   &lt;Group description="Blog Title" selector=".header h1"&gt;
+     &lt;Variable name="header.font" description="Font" type="font"
+         default="normal normal 60px Arial, Tahoma, Helvetica, FreeSans, sans-serif" value="normal normal 60px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/&gt;
+     &lt;Variable name="header.text.color" description="Title Color" type="color" default="#3399bb"  value="#ffffff"/&gt;
+   &lt;/Group&gt;
+
+   &lt;Group description="Blog Description" selector=".header .description"&gt;
+     &lt;Variable name="description.text.color" description="Description Color" type="color"
+         default="#777777"  value="#ffffff"/&gt;
+   &lt;/Group&gt;
+
+   &lt;Group description="Tabs Text" selector=".tabs-inner .widget li a"&gt;
+     &lt;Variable name="tabs.font" description="Font" type="font"
+         default="normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif" value="normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/&gt;
+     &lt;Variable name="tabs.text.color" description="Text Color" type="color" default="#999999" value="#999999"/&gt;
+     &lt;Variable name="tabs.selected.text.color" description="Selected Color" type="color" default="#000000" value="#000000"/&gt;
+   &lt;/Group&gt;
+
+   &lt;Group description="Tabs Background" selector=".tabs-outer .PageList"&gt;
+     &lt;Variable name="tabs.background.color" description="Background Color" type="color" default="#f5f5f5" value="#f5f5f5"/&gt;
+     &lt;Variable name="tabs.selected.background.color" description="Selected Color" type="color" default="#eeeeee" value="#eeeeee"/&gt;
+   &lt;/Group&gt;
+
+   &lt;Group description="Post Title" selector="h3.post-title, .comments h4"&gt;
+     &lt;Variable name="post.title.font" description="Font" type="font"
+         default="normal normal 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif" value="normal normal 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/&gt;
+   &lt;/Group&gt;
+
+   &lt;Group description="Date Header" selector=".date-header"&gt;
+     &lt;Variable name="date.header.color" description="Text Color" type="color"
+         default="$(body.text.color)" value="#222222"/&gt;
+     &lt;Variable name="date.header.background.color" description="Background Color" type="color"
+         default="transparent" value="transparent"/&gt;
+     &lt;Variable name="date.header.font" description="Text Font" type="font"
+         default="normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif" value="normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/&gt;
+     &lt;Variable name="date.header.padding" description="Date Header Padding" type="string" default="inherit" value="inherit"/&gt;
+     &lt;Variable name="date.header.letterspacing" description="Date Header Letter Spacing" type="string" default="inherit" value="inherit"/&gt;
+     &lt;Variable name="date.header.margin" description="Date Header Margin" type="string" default="inherit" value="inherit"/&gt;
+   &lt;/Group&gt;
+
+   &lt;Group description="Post Footer" selector=".post-footer"&gt;
+     &lt;Variable name="post.footer.text.color" description="Text Color" type="color" default="#666666" value="#666666"/&gt;
+     &lt;Variable name="post.footer.background.color" description="Background Color" type="color"
+         default="#f9f9f9" value="#f9f9f9"/&gt;
+     &lt;Variable name="post.footer.border.color" description="Shadow Color" type="color" default="#eeeeee" value="#eeeeee"/&gt;
+   &lt;/Group&gt;
+
+   &lt;Group description="Gadgets" selector="h2"&gt;
+     &lt;Variable name="widget.title.font" description="Title Font" type="font"
+         default="normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif" value="normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/&gt;
+     &lt;Variable name="widget.title.text.color" description="Title Color" type="color" default="#000000" value="#000000"/&gt;
+     &lt;Variable name="widget.alternate.text.color" description="Alternate Color" type="color" default="#999999" value="#999999"/&gt;
+   &lt;/Group&gt;
+
+   &lt;Group description="Images" selector=".main-inner"&gt;
+     &lt;Variable name="image.background.color" description="Background Color" type="color" default="#ffffff" value="#ffffff"/&gt;
+     &lt;Variable name="image.border.color" description="Border Color" type="color" default="#eeeeee" value="#eeeeee"/&gt;
+     &lt;Variable name="image.text.color" description="Caption Text Color" type="color" default="$(body.text.color)" value="#222222"/&gt;
+   &lt;/Group&gt;
+
+   &lt;Group description="Accents" selector=".content-inner"&gt;
+     &lt;Variable name="body.rule.color" description="Separator Line Color" type="color" default="#eeeeee" value="#eeeeee"/&gt;
+     &lt;Variable name="tabs.border.color" description="Tabs Border Color" type="color" default="$(body.rule.color)" value="#eeeeee"/&gt;
+   &lt;/Group&gt;
+
+   &lt;Variable name="body.background" description="Body Background" type="background"
+       color="$(body.background.color)" default="$(color) none repeat scroll top left" value="$(color) none repeat scroll top left"/&gt;
+   &lt;Variable name="body.background.override" description="Body Background Override" type="string" default="" value=""/&gt;
+
+   &lt;Variable name="body.background.gradient.cap" description="Body Gradient Cap" type="url"
+       default="url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png)" value="url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png)"/&gt;
+   &lt;Variable name="body.background.gradient.tile" description="Body Gradient Tile" type="url"
+       default="url(https://resources.blogblog.com/blogblog/data/1kt/simple/body_gradient_tile_light.png)" value="url(https://resources.blogblog.com/blogblog/data/1kt/simple/body_gradient_tile_light.png)"/&gt;
+
+   &lt;Variable name="content.background.color.selector" description="Content Background Color Selector" type="string" default=".content-inner" value=".content-inner"/&gt;
+   &lt;Variable name="content.padding" description="Content Padding" type="length" default="10px" min="0" max="100px" value="10px"/&gt;
+   &lt;Variable name="content.padding.horizontal" description="Content Horizontal Padding" type="length" default="$(content.padding)" min="0" max="100px" value="10px"/&gt;
+   &lt;Variable name="content.shadow.spread" description="Content Shadow Spread" type="length" default="40px" min="0" max="100px" value="40px"/&gt;
+   &lt;Variable name="content.shadow.spread.webkit" description="Content Shadow Spread (WebKit)" type="length" default="5px" min="0" max="100px" value="5px"/&gt;
+   &lt;Variable name="content.shadow.spread.ie" description="Content Shadow Spread (IE)" type="length" default="10px" min="0" max="100px" value="10px"/&gt;
+
+   &lt;Variable name="main.border.width" description="Main Border Width" type="length" default="0" min="0" max="10px" value="0"/&gt;
+
+   &lt;Variable name="header.background.gradient" description="Header Gradient" type="url" default="none" value="url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png)"/&gt;
+   &lt;Variable name="header.shadow.offset.left" description="Header Shadow Offset Left" type="length" default="-1px" min="-50px" max="50px" value="1px"/&gt;
+   &lt;Variable name="header.shadow.offset.top" description="Header Shadow Offset Top" type="length" default="-1px" min="-50px" max="50px" value="2px"/&gt;
+   &lt;Variable name="header.shadow.spread" description="Header Shadow Spread" type="length" default="1px" min="0" max="100px" value="3px"/&gt;
+   &lt;Variable name="header.padding" description="Header Padding" type="length" default="30px" min="0" max="100px" value="30px"/&gt;
+
+   &lt;Variable name="header.border.size" description="Header Border Size" type="length" default="1px" min="0" max="10px" value="0"/&gt;
+   &lt;Variable name="header.bottom.border.size" description="Header Bottom Border Size" type="length" default="$(header.border.size)" min="0" max="10px" value="0"/&gt;
+   &lt;Variable name="header.border.horizontalsize" description="Header Horizontal Border Size" type="length" default="0" min="0" max="10px" value="0"/&gt;
+
+   &lt;Variable name="description.text.size" description="Description Text Size" type="string" default="140%" value="140%"/&gt;
+
+   &lt;Variable name="tabs.margin.top" description="Tabs Margin Top" type="length" default="0" min="0" max="100px" value="0"/&gt;
+   &lt;Variable name="tabs.margin.side" description="Tabs Side Margin" type="length" default="30px" min="0" max="100px" value="30px"/&gt;
+   &lt;Variable name="tabs.background.gradient" description="Tabs Background Gradient" type="url"
+       default="url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png)" value="url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png)"/&gt;
+   &lt;Variable name="tabs.border.width" description="Tabs Border Width" type="length" default="1px" min="0" max="10px" value="1px"/&gt;
+   &lt;Variable name="tabs.bevel.border.width" description="Tabs Bevel Border Width" type="length" default="1px" min="0" max="10px" value="1px"/&gt;
+
+   &lt;Variable name="post.margin.bottom" description="Post Bottom Margin" type="length" default="25px" min="0" max="100px" value="25px"/&gt;
+
+   &lt;Variable name="image.border.small.size" description="Image Border Small Size" type="length" default="2px" min="0" max="10px" value="2px"/&gt;
+   &lt;Variable name="image.border.large.size" description="Image Border Large Size" type="length" default="5px" min="0" max="10px" value="5px"/&gt;
+
+   &lt;Variable name="page.width.selector" description="Page Width Selector" type="string" default=".region-inner" value=".region-inner"/&gt;
+   &lt;Variable name="page.width" description="Page Width" type="string" default="auto" value="auto"/&gt;
+
+   &lt;Variable name="main.section.margin" description="Main Section Margin" type="length" default="15px" min="0" max="100px" value="15px"/&gt;
+   &lt;Variable name="main.padding" description="Main Padding" type="length" default="15px" min="0" max="100px" value="15px"/&gt;
+   &lt;Variable name="main.padding.top" description="Main Padding Top" type="length" default="30px" min="0" max="100px" value="30px"/&gt;
+   &lt;Variable name="main.padding.bottom" description="Main Padding Bottom" type="length" default="30px" min="0" max="100px" value="30px"/&gt;
+
+   &lt;Variable name="paging.background"
+       color="$(content.background.color)"
+       description="Background of blog paging area" type="background"
+       default="transparent none no-repeat scroll top center" value="transparent none no-repeat scroll top center"/&gt;
+
+   &lt;Variable name="footer.bevel" description="Bevel border length of footer" type="length" default="0" min="0" max="10px" value="0"/&gt;
+
+   &lt;Variable name="mobile.background.overlay" description="Mobile Background Overlay" type="string"
+       default="transparent none repeat scroll top left" value="transparent none repeat scroll top left"/&gt;
+   &lt;Variable name="mobile.background.size" description="Mobile Background Size" type="string" default="auto" value="auto"/&gt;
+   &lt;Variable name="mobile.button.color" description="Mobile Button Color" type="color" default="#ffffff"  value="#ffffff"/&gt;
+
+   &lt;Variable name="startSide" description="Side where text starts in blog language" type="automatic" default="left"/&gt;
+   &lt;Variable name="endSide" description="Side where text ends in blog language" type="automatic" default="right"/&gt;
+*/
+
+/* Content
+----------------------------------------------- */
+body {
+  font: $(body.font);
+  color: $(body.text.color);
+  background: $(body.background);
+  padding: 0 $(content.shadow.spread) $(content.shadow.spread) $(content.shadow.spread);
+  $(body.background.override)
+}
+
+html body $(page.width.selector) {
+  min-width: 0;
+  max-width: 100%;
+  width: $(page.width);
+}
+
+h2 {
+  font-size: 22px;
+}
+
+a:link {
+  text-decoration:none;
+  color: $(link.color);
+}
+
+a:visited {
+  text-decoration:none;
+  color: $(link.visited.color);
+}
+
+a:hover {
+  text-decoration:underline;
+  color: $(link.hover.color);
+}
+
+.body-fauxcolumn-outer .fauxcolumn-inner {
+  background: transparent $(body.background.gradient.tile) repeat scroll top left;
+  _background-image: none;
+}
+
+.body-fauxcolumn-outer .cap-top {
+  position: absolute;
+  z-index: 1;
+  height: 400px;
+  width: 100%;
+}
+
+.body-fauxcolumn-outer .cap-top .cap-left {
+  width: 100%;
+  background: transparent $(body.background.gradient.cap) repeat-x scroll top left;
+  _background-image: none;
+}
+
+.content-outer {
+  -moz-box-shadow: 0 0 $(content.shadow.spread) rgba(0, 0, 0, .15);
+  -webkit-box-shadow: 0 0 $(content.shadow.spread.webkit) rgba(0, 0, 0, .15);
+  -goog-ms-box-shadow: 0 0 $(content.shadow.spread.ie) #333333;
+  box-shadow: 0 0 $(content.shadow.spread) rgba(0, 0, 0, .15);
+
+  margin-bottom: 1px;
+}
+
+.content-inner {
+  padding: $(content.padding) $(content.padding.horizontal);
+}
+
+$(content.background.color.selector) {
+  background-color: $(content.background.color);
+}
+
+/* Header
+----------------------------------------------- */
+.header-outer {
+  background: $(header.background.color) $(header.background.gradient) repeat-x scroll 0 -400px;
+  _background-image: none;
+}
+
+.Header h1 {
+  font: $(header.font);
+  color: $(header.text.color);
+  text-shadow: $(header.shadow.offset.left) $(header.shadow.offset.top) $(header.shadow.spread) rgba(0, 0, 0, .2);
+}
+
+.Header h1 a {
+  color: $(header.text.color);
+}
+
+.Header .description {
+  font-size: $(description.text.size);
+  color: $(description.text.color);
+}
+
+.header-inner .Header .titlewrapper {
+  padding: 22px $(header.padding);
+}
+
+.header-inner .Header .descriptionwrapper {
+  padding: 0 $(header.padding);
+}
+
+/* Tabs
+----------------------------------------------- */
+.tabs-inner .section:first-child {
+  border-top: $(header.bottom.border.size) solid $(tabs.border.color);
+}
+
+.tabs-inner .section:first-child ul {
+  margin-top: -$(header.border.size);
+  border-top: $(header.border.size) solid $(tabs.border.color);
+  border-left: $(header.border.horizontalsize) solid $(tabs.border.color);
+  border-right: $(header.border.horizontalsize) solid $(tabs.border.color);
+}
+
+.tabs-inner .widget ul {
+  background: $(tabs.background.color) $(tabs.background.gradient) repeat-x scroll 0 -800px;
+  _background-image: none;
+  border-bottom: $(tabs.border.width) solid $(tabs.border.color);
+
+  margin-top: $(tabs.margin.top);
+  margin-left: -$(tabs.margin.side);
+  margin-right: -$(tabs.margin.side);
+}
+
+.tabs-inner .widget li a {
+  display: inline-block;
+
+  padding: .6em 1em;
+
+  font: $(tabs.font);
+  color: $(tabs.text.color);
+
+  border-$startSide: $(tabs.border.width) solid $(content.background.color);
+  border-$endSide: $(tabs.bevel.border.width) solid $(tabs.border.color);
+}
+
+.tabs-inner .widget li:first-child a {
+  border-$startSide: none;
+}
+
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+  color: $(tabs.selected.text.color);
+  background-color: $(tabs.selected.background.color);
+  text-decoration: none;
+}
+
+/* Columns
+----------------------------------------------- */
+.main-outer {
+  border-top: $(main.border.width) solid $(body.rule.color);
+}
+
+.fauxcolumn-left-outer .fauxcolumn-inner {
+  border-right: 1px solid $(body.rule.color);
+}
+
+.fauxcolumn-right-outer .fauxcolumn-inner {
+  border-left: 1px solid $(body.rule.color);
+}
+
+/* Headings
+----------------------------------------------- */
+div.widget &gt; h2,
+div.widget h2.title {
+  margin: 0 0 1em 0;
+
+  font: $(widget.title.font);
+  color: $(widget.title.text.color);
+}
+
+/* Widgets
+----------------------------------------------- */
+.widget .zippy {
+  color: $(widget.alternate.text.color);
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, .1);
+}
+
+.widget .popular-posts ul {
+  list-style: none;
+}
+
+/* Posts
+----------------------------------------------- */
+h2.date-header {
+  font: $(date.header.font);
+}
+
+.date-header span {
+  background-color: $(date.header.background.color);
+  color: $(date.header.color);
+  padding: $(date.header.padding);
+  letter-spacing: $(date.header.letterspacing);
+  margin: $(date.header.margin);
+}
+
+.main-inner {
+  padding-top: $(main.padding.top);
+  padding-bottom: $(main.padding.bottom);
+}
+
+.main-inner .column-center-inner {
+  padding: 0 $(main.padding);
+}
+
+.main-inner .column-center-inner .section {
+  margin: 0 $(main.section.margin);
+}
+
+.post {
+  margin: 0 0 $(post.margin.bottom) 0;
+}
+
+h3.post-title, .comments h4 {
+  font: $(post.title.font);
+  margin: .75em 0 0;
+}
+
+.post-body {
+  font-size: 110%;
+  line-height: 1.4;
+  position: relative;
+}
+
+.post-body img, .post-body .tr-caption-container, .Profile img, .Image img,
+.BlogList .item-thumbnail img {
+  padding: $(image.border.small.size);
+
+  background: $(image.background.color);
+  border: 1px solid $(image.border.color);
+
+  -moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+  -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+}
+
+.post-body img, .post-body .tr-caption-container {
+  padding: $(image.border.large.size);
+}
+
+.post-body .tr-caption-container {
+  color: $(image.text.color);
+}
+
+.post-body .tr-caption-container img {
+  padding: 0;
+
+  background: transparent;
+  border: none;
+
+  -moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+  -webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+  box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+
+.post-header {
+  margin: 0 0 1.5em;
+
+  line-height: 1.6;
+  font-size: 90%;
+}
+
+.post-footer {
+  margin: 20px -2px 0;
+  padding: 5px 10px;
+
+  color: $(post.footer.text.color);
+  background-color: $(post.footer.background.color);
+  border-bottom: 1px solid $(post.footer.border.color);
+
+  line-height: 1.6;
+  font-size: 90%;
+}
+
+#comments .comment-author {
+  padding-top: 1.5em;
+
+  border-top: 1px solid $(body.rule.color);
+  background-position: 0 1.5em;
+}
+
+#comments .comment-author:first-child {
+  padding-top: 0;
+  border-top: none;
+}
+
+.avatar-image-container {
+  margin: .2em 0 0;
+}
+
+#comments .avatar-image-container img {
+  border: 1px solid $(image.border.color);
+}
+
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+  background-repeat: no-repeat;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+
+.comments .comments-content .loadmore a {
+  border-top: 1px solid $(widget.alternate.text.color);
+  border-bottom: 1px solid $(widget.alternate.text.color);
+}
+
+.comments .comment-thread.inline-thread {
+  background-color: $(post.footer.background.color);
+}
+
+.comments .continue {
+  border-top: 2px solid $(widget.alternate.text.color);
+}
+
+/* Accents
+---------------------------------------------- */
+.section-columns td.columns-cell {
+  border-$startSide: 1px solid $(body.rule.color);
+}
+
+.blog-pager {
+  background: $(paging.background);
+}
+
+.blog-pager-older-link, .home-link,
+.blog-pager-newer-link {
+  background-color: $(content.background.color);
+  padding: 5px;
+}
+
+.footer-outer {
+  border-top: $(footer.bevel) dashed #bbbbbb;
+}
+
+/* Mobile
+----------------------------------------------- */
+body.mobile  {
+  background-size: $(mobile.background.size);
+}
+
+.mobile .body-fauxcolumn-outer {
+  background: $(mobile.background.overlay);
+}
+
+.mobile .body-fauxcolumn-outer .cap-top {
+  background-size: 100% auto;
+}
+
+.mobile .content-outer {
+  -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+  box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+}
+
+.mobile .tabs-inner .widget ul {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.mobile .post {
+  margin: 0;
+}
+
+.mobile .main-inner .column-center-inner .section {
+  margin: 0;
+}
+
+.mobile .date-header span {
+  padding: 0.1em 10px;
+  margin: 0 -10px;
+}
+
+.mobile h3.post-title {
+  margin: 0;
+}
+
+.mobile .blog-pager {
+  background: transparent none no-repeat scroll top center;
+}
+
+.mobile .footer-outer {
+  border-top: none;
+}
+
+.mobile .main-inner, .mobile .footer-inner {
+  background-color: $(content.background.color);
+}
+
+.mobile-index-contents {
+  color: $(body.text.color);
+}
+
+.mobile-link-button {
+  background-color: $(link.color);
+}
+
+.mobile-link-button a:link, .mobile-link-button a:visited {
+  color: $(mobile.button.color);
+}
+
+.mobile .tabs-inner .section:first-child {
+  border-top: none;
+}
+
+.mobile .tabs-inner .PageList .widget-content {
+  background-color: $(tabs.selected.background.color);
+  color: $(tabs.selected.text.color);
+  border-top: $(tabs.border.width) solid $(tabs.border.color);
+  border-bottom: $(tabs.border.width) solid $(tabs.border.color);
+}
+
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+  border-$startSide: 1px solid $(tabs.border.color);
+}
+]]&gt;&lt;/b:skin&gt;
+
+    &lt;b:template-skin&gt;
+      &lt;b:variable default='960px' name='content.width' type='length' value='960px'/&gt;
+      &lt;b:variable default='0' name='main.column.left.width' type='length' value='0px'/&gt;
+      &lt;b:variable default='310px' name='main.column.right.width' type='length' value='310px'/&gt;
+
+      &lt;![CDATA[
+      body {
+        min-width: $(content.width);
+      }
+
+      .content-outer, .content-fauxcolumn-outer, .region-inner {
+        min-width: $(content.width);
+        max-width: $(content.width);
+        _width: $(content.width);
+      }
+
+      .main-inner .columns {
+        padding-left: $(main.column.left.width);
+        padding-right: $(main.column.right.width);
+      }
+
+      .main-inner .fauxcolumn-center-outer {
+        left: $(main.column.left.width);
+        right: $(main.column.right.width);
+        /* IE6 does not respect left and right together */
+        _width: expression(this.parentNode.offsetWidth -
+            parseInt("$(main.column.left.width)") -
+            parseInt("$(main.column.right.width)") + 'px');
+      }
+
+      .main-inner .fauxcolumn-left-outer {
+        width: $(main.column.left.width);
+      }
+
+      .main-inner .fauxcolumn-right-outer {
+        width: $(main.column.right.width);
+      }
+
+      .main-inner .column-left-outer {
+        width: $(main.column.left.width);
+        right: 100%;
+        margin-left: -$(main.column.left.width);
+      }
+
+      .main-inner .column-right-outer {
+        width: $(main.column.right.width);
+        margin-right: -$(main.column.right.width);
+      }
+
+      #layout {
+        min-width: 0;
+      }
+
+      #layout .content-outer {
+        min-width: 0;
+        width: 800px;
+      }
+
+      #layout .region-inner {
+        min-width: 0;
+        width: auto;
+      }
+
+      body#layout div.add_widget {
+        padding: 8px;
+      }
+
+      body#layout div.add_widget a {
+        margin-left: 32px;
+      }
+      ]]&gt;
+    &lt;/b:template-skin&gt;
+
+    &lt;b:if cond='data:skin.vars.body_background.image.isResizable'&gt;
+      &lt;b:include cond='not data:view.isPreview' data='{                          image: data:skin.vars.body_background.image,                          selector: &amp;quot;body&amp;quot;                        }' name='responsiveImageStyle'/&gt;
+    &lt;/b:if&gt;
+
+    &lt;b:include data='blog' name='google-analytics'/&gt;
+  &lt;/head&gt;
+
+  &lt;body expr:class='&amp;quot;loading&amp;quot; + data:blog.mobileClass'&gt;
+  &lt;b:section class='navbar' id='navbar' maxwidgets='1' name='Navbar' showaddelement='no'&gt;
+    &lt;b:widget id='Navbar1' locked='true' title='Barre de navigation' type='Navbar'&gt;
+      &lt;b:includable id='main'&gt;&amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt;
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener(&amp;#39;load&amp;#39;,
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent(&amp;#39;onload&amp;#39;, function(){ object[attribute] = val; });
+      }
+    }
+  &amp;lt;/script&amp;gt;
+&amp;lt;div id=&amp;quot;navbar-iframe-container&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;https://apis.google.com/js/plusone.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt;
+      gapi.load(&amp;quot;gapi.iframes:gapi.iframes.style.bubble&amp;quot;, function() {
+        if (gapi.iframes &amp;amp;&amp;amp; gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: &amp;#39;https://www.blogger.com/navbar.g?targetBlogID\x3d2681397194078422720\x26blogName\x3dCDVL91+sites+d\x27activit%C3%A9+de+l\x27essonne\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://cdvl91-sites-activites-en-essonne.blogspot.com/search\x26blogLocale\x3dfr\x26v\x3d2\x26homepageUrl\x3dhttps://cdvl91-sites-activites-en-essonne.blogspot.com/\x26vt\x3d-8367545748420467339&amp;#39;,
+              where: document.getElementById(&amp;quot;navbar-iframe-container&amp;quot;),
+              id: &amp;quot;navbar-iframe&amp;quot;
+          });
+        }
+      });
+    &amp;lt;/script&amp;gt;&amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt;
+(function() {
+var script = document.createElement(&amp;#39;script&amp;#39;);
+script.type = &amp;#39;text/javascript&amp;#39;;
+script.src = &amp;#39;//pagead2.googlesyndication.com/pagead/js/google_top_exp.js&amp;#39;;
+var head = document.getElementsByTagName(&amp;#39;head&amp;#39;)[0];
+if (head) {
+head.appendChild(script);
+}})();
+&amp;lt;/script&amp;gt;
+&lt;/b:includable&gt;
+    &lt;/b:widget&gt;
+  &lt;/b:section&gt;
+
+  &lt;b:if cond='data:blog.pageType == &amp;quot;index&amp;quot;'&gt;
+    &lt;div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'&gt;
+      &lt;meta expr:content='data:blog.title' itemprop='name'/&gt;
+      &lt;b:if cond='data:blog.metaDescription'&gt;
+        &lt;meta expr:content='data:blog.metaDescription' itemprop='description'/&gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+  &lt;/b:if&gt;
+
+  &lt;div class='body-fauxcolumns'&gt;
+    &lt;div class='fauxcolumn-outer body-fauxcolumn-outer'&gt;
+    &lt;div class='cap-top'&gt;
+      &lt;div class='cap-left'/&gt;
+      &lt;div class='cap-right'/&gt;
+    &lt;/div&gt;
+    &lt;div class='fauxborder-left'&gt;
+    &lt;div class='fauxborder-right'/&gt;
+    &lt;div class='fauxcolumn-inner'&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class='cap-bottom'&gt;
+      &lt;div class='cap-left'/&gt;
+      &lt;div class='cap-right'/&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class='content'&gt;
+  &lt;div class='content-fauxcolumns'&gt;
+    &lt;div class='fauxcolumn-outer content-fauxcolumn-outer'&gt;
+    &lt;div class='cap-top'&gt;
+      &lt;div class='cap-left'/&gt;
+      &lt;div class='cap-right'/&gt;
+    &lt;/div&gt;
+    &lt;div class='fauxborder-left'&gt;
+    &lt;div class='fauxborder-right'/&gt;
+    &lt;div class='fauxcolumn-inner'&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class='cap-bottom'&gt;
+      &lt;div class='cap-left'/&gt;
+      &lt;div class='cap-right'/&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class='content-outer'&gt;
+  &lt;div class='content-cap-top cap-top'&gt;
+    &lt;div class='cap-left'/&gt;
+    &lt;div class='cap-right'/&gt;
+  &lt;/div&gt;
+  &lt;div class='fauxborder-left content-fauxborder-left'&gt;
+  &lt;div class='fauxborder-right content-fauxborder-right'/&gt;
+  &lt;div class='content-inner'&gt;
+
+    &lt;header&gt;
+    &lt;div class='header-outer'&gt;
+    &lt;div class='header-cap-top cap-top'&gt;
+      &lt;div class='cap-left'/&gt;
+      &lt;div class='cap-right'/&gt;
+    &lt;/div&gt;
+    &lt;div class='fauxborder-left header-fauxborder-left'&gt;
+    &lt;div class='fauxborder-right header-fauxborder-right'/&gt;
+    &lt;div class='region-inner header-inner'&gt;
+      &lt;b:section class='header' id='header' maxwidgets='1' name='Header' showaddelement='no'&gt;
+        &lt;b:widget id='Header1' locked='true' title='CDVL91 sites d&amp;apos;activité de l&amp;apos;essonne (en-tête)' type='Header'&gt;
+          &lt;b:widget-settings&gt;
+            &lt;b:widget-setting name='displayUrl'/&gt;
+            &lt;b:widget-setting name='displayHeight'&gt;0&lt;/b:widget-setting&gt;
+            &lt;b:widget-setting name='sectionWidth'&gt;-1&lt;/b:widget-setting&gt;
+            &lt;b:widget-setting name='useImage'&gt;false&lt;/b:widget-setting&gt;
+            &lt;b:widget-setting name='shrinkToFit'&gt;false&lt;/b:widget-setting&gt;
+            &lt;b:widget-setting name='imagePlacement'&gt;BEHIND&lt;/b:widget-setting&gt;
+            &lt;b:widget-setting name='displayWidth'&gt;0&lt;/b:widget-setting&gt;
+          &lt;/b:widget-settings&gt;
+          &lt;b:includable id='main'&gt;
+
+  &lt;b:if cond='data:useImage'&gt;
+    &lt;b:if cond='data:imagePlacement == &amp;quot;BEHIND&amp;quot;'&gt;
+      &lt;!--
+      Show image as background to text. You can't really calculate the width
+      reliably in JS because margins are not taken into account by any of
+      clientWidth, offsetWidth or scrollWidth, so we don't force a minimum
+      width if the user is using shrink to fit.
+      This results in a margin-width's worth of pixels being cropped. If the
+      user is not using shrink to fit then we expand the header.
+      --&gt;
+      &lt;b:if cond='data:mobile'&gt;
+        &lt;div id='header-inner'&gt;
+          &lt;div class='titlewrapper' style='background: transparent'&gt;
+            &lt;h1 class='title' style='background: transparent; border-width: 0px'&gt;
+              &lt;b:include name='title'/&gt;
+            &lt;/h1&gt;
+          &lt;/div&gt;
+          &lt;b:include name='description'/&gt;
+        &lt;/div&gt;
+      &lt;b:else/&gt;
+        &lt;div expr:style='&amp;quot;background-image: url(\&amp;quot;&amp;quot; + data:sourceUrl + &amp;quot;\&amp;quot;); &amp;quot;                      + &amp;quot;background-position: &amp;quot;                      + data:backgroundPositionStyleStr + &amp;quot;; &amp;quot;                      + data:widthStyleStr                      + &amp;quot;min-height: &amp;quot; + data:height                      + &amp;quot;_height: &amp;quot; + data:height                      + &amp;quot;background-repeat: no-repeat; &amp;quot;' id='header-inner'&gt;
+          &lt;div class='titlewrapper' style='background: transparent'&gt;
+            &lt;h1 class='title' style='background: transparent; border-width: 0px'&gt;
+              &lt;b:include name='title'/&gt;
+            &lt;/h1&gt;
+          &lt;/div&gt;
+          &lt;b:include name='description'/&gt;
+        &lt;/div&gt;
+      &lt;/b:if&gt;
+    &lt;b:else/&gt;
+      &lt;!--Show the image only--&gt;
+      &lt;div id='header-inner'&gt;
+        &lt;a expr:href='data:blog.homepageUrl' style='display: block'&gt;
+          &lt;img expr:alt='data:title' expr:height='data:height' expr:id='data:widget.instanceId + &amp;quot;_headerimg&amp;quot;' expr:src='data:sourceUrl' expr:width='data:width' style='display: block'/&gt;
+        &lt;/a&gt;
+        &lt;!--Show the description--&gt;
+        &lt;b:if cond='data:imagePlacement == &amp;quot;BEFORE_DESCRIPTION&amp;quot;'&gt;
+          &lt;b:include name='description'/&gt;
+        &lt;/b:if&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+  &lt;b:else/&gt;
+    &lt;!--No header image --&gt;
+    &lt;div id='header-inner'&gt;
+      &lt;div class='titlewrapper'&gt;
+        &lt;h1 class='title'&gt;
+          &lt;b:include name='title'/&gt;
+        &lt;/h1&gt;
+      &lt;/div&gt;
+      &lt;b:include name='description'/&gt;
+    &lt;/div&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+          &lt;b:includable id='description'&gt;
+  &lt;div class='descriptionwrapper'&gt;
+    &lt;p class='description'&gt;&lt;span&gt;&lt;data:description/&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+          &lt;b:includable id='title'&gt;
+  &lt;b:tag cond='data:blog.url != data:blog.homepageUrl' expr:href='data:blog.homepageUrl' name='a'&gt;
+    &lt;data:title/&gt;
+  &lt;/b:tag&gt;
+&lt;/b:includable&gt;
+        &lt;/b:widget&gt;
+      &lt;/b:section&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class='header-cap-bottom cap-bottom'&gt;
+      &lt;div class='cap-left'/&gt;
+      &lt;div class='cap-right'/&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/header&gt;
+
+    &lt;div class='tabs-outer'&gt;
+    &lt;div class='tabs-cap-top cap-top'&gt;
+      &lt;div class='cap-left'/&gt;
+      &lt;div class='cap-right'/&gt;
+    &lt;/div&gt;
+    &lt;div class='fauxborder-left tabs-fauxborder-left'&gt;
+    &lt;div class='fauxborder-right tabs-fauxborder-right'/&gt;
+    &lt;div class='region-inner tabs-inner'&gt;
+      &lt;b:section class='tabs' id='crosscol' maxwidgets='1' name='Cross-Column' showaddelement='yes'/&gt;
+      &lt;b:section class='tabs' id='crosscol-overflow' name='Cross-Column 2' showaddelement='no'/&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class='tabs-cap-bottom cap-bottom'&gt;
+      &lt;div class='cap-left'/&gt;
+      &lt;div class='cap-right'/&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class='main-outer'&gt;
+    &lt;div class='main-cap-top cap-top'&gt;
+      &lt;div class='cap-left'/&gt;
+      &lt;div class='cap-right'/&gt;
+    &lt;/div&gt;
+
+    &lt;div class='fauxborder-left main-fauxborder-left'&gt;
+    &lt;div class='fauxborder-right main-fauxborder-right'/&gt;
+    &lt;div class='region-inner main-inner'&gt;
+
+      &lt;div class='columns fauxcolumns'&gt;
+
+        &lt;div class='fauxcolumn-outer fauxcolumn-center-outer'&gt;
+        &lt;div class='cap-top'&gt;
+          &lt;div class='cap-left'/&gt;
+          &lt;div class='cap-right'/&gt;
+        &lt;/div&gt;
+        &lt;div class='fauxborder-left'&gt;
+        &lt;div class='fauxborder-right'/&gt;
+        &lt;div class='fauxcolumn-inner'&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class='cap-bottom'&gt;
+          &lt;div class='cap-left'/&gt;
+          &lt;div class='cap-right'/&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div class='fauxcolumn-outer fauxcolumn-left-outer'&gt;
+        &lt;div class='cap-top'&gt;
+          &lt;div class='cap-left'/&gt;
+          &lt;div class='cap-right'/&gt;
+        &lt;/div&gt;
+        &lt;div class='fauxborder-left'&gt;
+        &lt;div class='fauxborder-right'/&gt;
+        &lt;div class='fauxcolumn-inner'&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class='cap-bottom'&gt;
+          &lt;div class='cap-left'/&gt;
+          &lt;div class='cap-right'/&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div class='fauxcolumn-outer fauxcolumn-right-outer'&gt;
+        &lt;div class='cap-top'&gt;
+          &lt;div class='cap-left'/&gt;
+          &lt;div class='cap-right'/&gt;
+        &lt;/div&gt;
+        &lt;div class='fauxborder-left'&gt;
+        &lt;div class='fauxborder-right'/&gt;
+        &lt;div class='fauxcolumn-inner'&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class='cap-bottom'&gt;
+          &lt;div class='cap-left'/&gt;
+          &lt;div class='cap-right'/&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;!-- corrects IE6 width calculation --&gt;
+        &lt;div class='columns-inner'&gt;
+
+        &lt;div class='column-center-outer'&gt;
+        &lt;div class='column-center-inner'&gt;
+          &lt;b:section class='main' id='main' name='Main' showaddelement='no'&gt;
+            &lt;b:widget id='Blog1' locked='true' title='Articles du blog' type='Blog'&gt;
+              &lt;b:widget-settings&gt;
+                &lt;b:widget-setting name='showDateHeader'&gt;true&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='style.textcolor'&gt;#222222&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showShareButtons'&gt;true&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showCommentLink'&gt;true&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='style.urlcolor'&gt;#666666&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showAuthor'&gt;true&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='disableGooglePlusShare'&gt;true&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='style.linkcolor'&gt;#cc6611&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='style.unittype'&gt;TextAndImage&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='style.bgcolor'&gt;#ffffff&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showAuthorProfile'&gt;false&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='style.layout'&gt;1x1&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showLabels'&gt;true&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showLocation'&gt;true&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showTimestamp'&gt;true&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='postsPerAd'&gt;1&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showBacklinks'&gt;false&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='style.bordercolor'&gt;#ffffff&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showInlineAds'&gt;false&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showReactions'&gt;false&lt;/b:widget-setting&gt;
+              &lt;/b:widget-settings&gt;
+              &lt;b:includable id='main' var='top'&gt;
+  &lt;b:if cond='!data:mobile'&gt;
+    &lt;!-- posts --&gt;
+    &lt;div class='blog-posts hfeed'&gt;
+
+      &lt;b:include data='top' name='status-message'/&gt;
+
+      &lt;b:loop values='data:posts' var='post'&gt;
+        &lt;b:if cond='data:post.isDateStart and not data:post.isFirstPost'&gt;
+          &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;
+        &lt;/b:if&gt;
+        &lt;b:if cond='data:post.isDateStart'&gt;
+          &amp;lt;div class=&amp;quot;date-outer&amp;quot;&amp;gt;
+        &lt;/b:if&gt;
+        &lt;b:if cond='data:post.dateHeader'&gt;
+          &lt;h2 class='date-header'&gt;&lt;span&gt;&lt;data:post.dateHeader/&gt;&lt;/span&gt;&lt;/h2&gt;
+        &lt;/b:if&gt;
+        &lt;b:if cond='data:post.isDateStart'&gt;
+          &amp;lt;div class=&amp;quot;date-posts&amp;quot;&amp;gt;
+        &lt;/b:if&gt;
+        &lt;div class='post-outer'&gt;
+          &lt;b:include data='post' name='post'/&gt;
+          &lt;b:include cond='data:blog.pageType in {&amp;quot;static_page&amp;quot;,&amp;quot;item&amp;quot;}' data='post' name='comment_picker'/&gt;
+        &lt;/div&gt;
+
+        &lt;!-- Ad --&gt;
+        &lt;b:if cond='data:post.includeAd'&gt;
+          &lt;div class='inline-ad'&gt;
+            &lt;data:adCode/&gt;
+          &lt;/div&gt;
+        &lt;/b:if&gt;
+      &lt;/b:loop&gt;
+      &lt;b:if cond='data:numPosts != 0'&gt;
+        &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+
+    &lt;!-- navigation --&gt;
+    &lt;b:include name='nextprev'/&gt;
+
+    &lt;!-- feed links --&gt;
+    &lt;b:include name='feedLinks'/&gt;
+
+  &lt;b:else/&gt;
+    &lt;b:include name='mobile-main'/&gt;
+  &lt;/b:if&gt;
+
+  &lt;b:include cond='data:top.showPlusOne' name='googlePlusBootstrap'/&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='backlinkDeleteIcon' var='backlink'/&gt;
+              &lt;b:includable id='backlinks' var='post'/&gt;
+              &lt;b:includable id='comment-form' var='post'&gt;
+  &lt;div class='comment-form'&gt;
+    &lt;a name='comment-form'/&gt;
+    &lt;b:if cond='data:mobile'&gt;
+      &lt;h4 id='comment-post-message'&gt;
+        &lt;a expr:id='data:widget.instanceId + &amp;quot;_comment-editor-toggle-link&amp;quot;' href='javascript:void(0)'&gt;&lt;data:postCommentMsg/&gt;&lt;/a&gt;&lt;/h4&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/&gt;
+    &lt;b:else/&gt;
+      &lt;h4 id='comment-post-message'&gt;&lt;data:postCommentMsg/&gt;&lt;/h4&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/&gt;
+    &lt;/b:if&gt;
+    &lt;data:post.cmtfpIframe/&gt;
+    &lt;script type='text/javascript'&gt;
+      BLOG_CMT_createIframe(&amp;#39;&lt;data:post.appRpcRelayPath/&gt;&amp;#39;);
+    &lt;/script&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='commentDeleteIcon' var='comment'&gt;
+  &lt;span expr:class='&amp;quot;item-control &amp;quot; + data:comment.adminClass'&gt;
+    &lt;b:if cond='data:showCmtPopup'&gt;
+      &lt;div class='goog-toggle-button'&gt;
+        &lt;div class='goog-inline-block comment-action-icon'/&gt;
+      &lt;/div&gt;
+    &lt;b:else/&gt;
+      &lt;a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:top.deleteCommentMsg'&gt;
+        &lt;img src='https://resources.blogblog.com/img/icon_delete13.gif'/&gt;
+      &lt;/a&gt;
+    &lt;/b:if&gt;
+  &lt;/span&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='comment_count_picker' var='post'&gt;
+  &lt;a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;
+    &lt;data:post.commentLabelFull/&gt;:
+  &lt;/a&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='comment_picker' var='post'&gt;
+  &lt;b:if cond='data:post.showThreadedComments'&gt;
+    &lt;b:include data='post' name='threaded_comments'/&gt;
+  &lt;b:else/&gt;
+    &lt;b:include data='post' name='comments'/&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='comments' var='post'&gt;
+  &lt;div class='comments' id='comments'&gt;
+    &lt;a name='comments'/&gt;
+    &lt;b:if cond='data:post.allowComments'&gt;
+      &lt;h4&gt;&lt;data:post.commentLabelFull/&gt;:&lt;/h4&gt;
+
+      &lt;b:if cond='data:post.commentPagingRequired'&gt;
+        &lt;span class='paging-control-container'&gt;
+          &lt;b:if cond='data:post.hasOlderLinks'&gt;
+            &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'&gt;&lt;data:post.oldestLinkText/&gt;&lt;/a&gt;
+              &amp;#160;
+            &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'&gt;&lt;data:post.olderLinkText/&gt;&lt;/a&gt;
+              &amp;#160;
+          &lt;/b:if&gt;
+
+          &lt;data:post.commentRangeText/&gt;
+
+          &lt;b:if cond='data:post.hasNewerLinks'&gt;
+            &amp;#160;
+            &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'&gt;&lt;data:post.newerLinkText/&gt;&lt;/a&gt;
+            &amp;#160;
+            &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'&gt;&lt;data:post.newestLinkText/&gt;&lt;/a&gt;
+          &lt;/b:if&gt;
+        &lt;/span&gt;
+      &lt;/b:if&gt;
+
+      &lt;div expr:id='data:widget.instanceId + &amp;quot;_comments-block-wrapper&amp;quot;'&gt;
+        &lt;dl expr:class='data:post.avatarIndentClass' id='comments-block'&gt;
+          &lt;b:loop values='data:post.comments' var='comment'&gt;
+            &lt;dt expr:class='&amp;quot;comment-author &amp;quot; + data:comment.authorClass' expr:id='data:comment.anchorName'&gt;
+              &lt;b:if cond='data:comment.favicon'&gt;
+                &lt;img expr:src='data:comment.favicon' height='16px' style='margin-bottom:-2px;' width='16px'/&gt;
+              &lt;/b:if&gt;
+              &lt;a expr:name='data:comment.anchorName'/&gt;
+              &lt;b:if cond='data:blog.enabledCommentProfileImages'&gt;
+                &lt;data:comment.authorAvatarImage/&gt;
+              &lt;/b:if&gt;
+              &lt;b:if cond='data:comment.authorUrl'&gt;
+                &lt;a expr:href='data:comment.authorUrl' rel='nofollow'&gt;&lt;data:comment.author/&gt;&lt;/a&gt;
+              &lt;b:else/&gt;
+                &lt;data:comment.author/&gt;
+              &lt;/b:if&gt;
+              &lt;data:commentPostedByMsg/&gt;
+            &lt;/dt&gt;
+            &lt;dd class='comment-body' expr:id='data:widget.instanceId + data:comment.cmtBodyIdPostfix'&gt;
+              &lt;b:if cond='data:comment.isDeleted'&gt;
+                &lt;span class='deleted-comment'&gt;&lt;data:comment.body/&gt;&lt;/span&gt;
+              &lt;b:else/&gt;
+                &lt;p&gt;
+                  &lt;data:comment.body/&gt;
+                &lt;/p&gt;
+              &lt;/b:if&gt;
+            &lt;/dd&gt;
+            &lt;dd class='comment-footer'&gt;
+              &lt;span class='comment-timestamp'&gt;
+                &lt;a expr:href='data:comment.url' title='comment permalink'&gt;
+                  &lt;data:comment.timestamp/&gt;
+                &lt;/a&gt;
+                &lt;b:include data='comment' name='commentDeleteIcon'/&gt;
+              &lt;/span&gt;
+            &lt;/dd&gt;
+          &lt;/b:loop&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;b:if cond='data:post.commentPagingRequired'&gt;
+        &lt;span class='paging-control-container'&gt;
+          &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'&gt;
+            &lt;data:post.oldestLinkText/&gt;
+          &lt;/a&gt;
+          &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'&gt;
+            &lt;data:post.olderLinkText/&gt;
+          &lt;/a&gt;
+          &amp;#160;
+          &lt;data:post.commentRangeText/&gt;
+          &amp;#160;
+          &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'&gt;
+            &lt;data:post.newerLinkText/&gt;
+          &lt;/a&gt;
+          &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'&gt;
+            &lt;data:post.newestLinkText/&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+      &lt;/b:if&gt;
+
+      &lt;p class='comment-footer'&gt;
+        &lt;b:if cond='data:post.embedCommentForm'&gt;
+          &lt;b:if cond='data:post.allowNewComments'&gt;
+            &lt;b:include data='post' name='comment-form'/&gt;
+          &lt;b:else/&gt;
+            &lt;data:post.noNewCommentsText/&gt;
+          &lt;/b:if&gt;
+        &lt;b:elseif cond='data:post.allowComments'/&gt;
+          &lt;a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;&lt;data:postCommentMsg/&gt;&lt;/a&gt;
+        &lt;/b:if&gt;
+      &lt;/p&gt;
+    &lt;/b:if&gt;
+    &lt;b:if cond='data:showCmtPopup'&gt;
+      &lt;div id='comment-popup'&gt;
+        &lt;iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'&gt;
+        &lt;/iframe&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='feedLinks'&gt;
+  &lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot;'&gt; &lt;!-- Blog feed links --&gt;
+    &lt;b:if cond='data:feedLinks'&gt;
+      &lt;div class='blog-feeds'&gt;
+        &lt;b:include data='feedLinks' name='feedLinksBody'/&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+  &lt;b:else/&gt; &lt;!--Post feed links --&gt;
+    &lt;div class='post-feeds'&gt;
+      &lt;b:loop values='data:posts' var='post'&gt;
+        &lt;b:include cond='data:post.allowComments and data:post.feedLinks' data='post.feedLinks' name='feedLinksBody'/&gt;
+      &lt;/b:loop&gt;
+    &lt;/div&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='feedLinksBody' var='links'&gt;
+  &lt;div class='feed-links'&gt;
+  &lt;data:feedLinksMsg/&gt;
+  &lt;b:loop values='data:links' var='f'&gt;
+     &lt;a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'&gt;&lt;data:f.name/&gt; (&lt;data:f.feedType/&gt;)&lt;/a&gt;
+  &lt;/b:loop&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='iframe_comments' var='post'&gt;
+  &lt;!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. --&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='mobile-index-post' var='post'&gt;
+  &lt;div class='mobile-date-outer date-outer'&gt;
+    &lt;b:if cond='data:post.dateHeader'&gt;
+      &lt;div class='date-header'&gt;
+        &lt;span&gt;&lt;data:post.dateHeader/&gt;&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='mobile-post-outer'&gt;
+      &lt;a expr:href='data:post.url'&gt;
+        &lt;h3 class='mobile-index-title entry-title' itemprop='name'&gt;
+          &lt;data:post.title/&gt;
+        &lt;/h3&gt;
+
+        &lt;div class='mobile-index-arrow'&gt;&amp;amp;rsaquo;&lt;/div&gt;
+
+        &lt;div class='mobile-index-contents'&gt;
+          &lt;b:if cond='data:post.thumbnailUrl'&gt;
+            &lt;div class='mobile-index-thumbnail'&gt;
+              &lt;div class='Image'&gt;
+                &lt;img expr:src='data:post.thumbnailUrl'/&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/b:if&gt;
+
+          &lt;div class='post-body'&gt;
+            &lt;b:if cond='data:post.snippet'&gt;&lt;data:post.snippet/&gt;&lt;/b:if&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div style='clear: both;'/&gt;
+      &lt;/a&gt;
+
+      &lt;div class='mobile-index-comment'&gt;
+        &lt;b:include cond='data:blog.pageType != &amp;quot;static_page&amp;quot;                          and data:post.allowComments                          and data:post.numComments != 0' data='post' name='comment_count_picker'/&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='mobile-main' var='top'&gt;
+    &lt;!-- posts --&gt;
+    &lt;div class='blog-posts hfeed'&gt;
+
+      &lt;b:include data='top' name='status-message'/&gt;
+
+      &lt;b:if cond='data:blog.pageType == &amp;quot;index&amp;quot;'&gt;
+        &lt;b:loop values='data:posts' var='post'&gt;
+          &lt;b:include data='post' name='mobile-index-post'/&gt;
+        &lt;/b:loop&gt;
+      &lt;b:else/&gt;
+        &lt;b:loop values='data:posts' var='post'&gt;
+          &lt;b:include data='post' name='mobile-post'/&gt;
+        &lt;/b:loop&gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+
+   &lt;b:include name='mobile-nextprev'/&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='mobile-nextprev'&gt;
+  &lt;div class='blog-pager' id='blog-pager'&gt;
+    &lt;b:if cond='data:newerPageUrl'&gt;
+      &lt;div class='mobile-link-button' id='blog-pager-newer-link'&gt;
+      &lt;a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-newer-link&amp;quot;' expr:title='data:newerPageTitle'&gt;&amp;amp;lsaquo;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;b:if cond='data:olderPageUrl'&gt;
+      &lt;div class='mobile-link-button' id='blog-pager-older-link'&gt;
+      &lt;a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-older-link&amp;quot;' expr:title='data:olderPageTitle'&gt;&amp;amp;rsaquo;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='mobile-link-button' id='blog-pager-home-link'&gt;
+    &lt;a class='home-link' expr:href='data:blog.homepageUrl'&gt;&lt;data:homeMsg/&gt;&lt;/a&gt;
+    &lt;/div&gt;
+
+    &lt;div class='mobile-desktop-link'&gt;
+      &lt;a class='home-link' expr:href='data:desktopLinkUrl'&gt;&lt;data:desktopLinkMsg/&gt;&lt;/a&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+  &lt;div class='clear'/&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='mobile-post' var='post'&gt;
+  &lt;div class='date-outer'&gt;
+    &lt;b:if cond='data:post.dateHeader'&gt;
+      &lt;h2 class='date-header'&gt;&lt;span&gt;&lt;data:post.dateHeader/&gt;&lt;/span&gt;&lt;/h2&gt;
+    &lt;/b:if&gt;
+    &lt;div class='date-posts'&gt;
+      &lt;div class='post-outer'&gt;
+
+        &lt;div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'&gt;
+          &lt;b:if cond='data:post.thumbnailUrl'&gt;
+            &lt;meta expr:content='data:post.thumbnailUrl' itemprop='image_url'/&gt;
+          &lt;/b:if&gt;
+          &lt;meta expr:content='data:blog.blogId' itemprop='blogId'/&gt;
+          &lt;meta expr:content='data:post.id' itemprop='postId'/&gt;
+
+          &lt;a expr:name='data:post.id'/&gt;
+          &lt;b:if cond='data:post.title'&gt;
+            &lt;h3 class='post-title entry-title' itemprop='name'&gt;
+              &lt;b:if cond='data:post.link'&gt;
+                &lt;a expr:href='data:post.link'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+              &lt;b:elseif cond='data:post.url and data:blog.url != data:post.url'/&gt;
+                &lt;a expr:href='data:post.url'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+              &lt;b:else/&gt;
+                &lt;data:post.title/&gt;
+              &lt;/b:if&gt;
+            &lt;/h3&gt;
+          &lt;/b:if&gt;
+
+          &lt;div class='post-header'&gt;
+            &lt;div class='post-header-line-1'/&gt;
+          &lt;/div&gt;
+
+          &lt;div class='post-body entry-content' expr:id='&amp;quot;post-body-&amp;quot; + data:post.id' itemprop='articleBody'&gt;
+            &lt;data:post.body/&gt;
+            &lt;div style='clear: both;'/&gt; &lt;!-- clear for photos floats --&gt;
+          &lt;/div&gt;
+
+          &lt;div class='post-footer'&gt;
+            &lt;div class='post-footer-line post-footer-line-1'&gt;
+              &lt;span class='post-author vcard'&gt;
+                &lt;b:if cond='data:top.showAuthor'&gt;
+                  &lt;b:if cond='data:post.authorProfileUrl'&gt;
+                    &lt;span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+                      &lt;meta expr:content='data:post.authorProfileUrl' itemprop='url'/&gt;
+                      &lt;a expr:href='data:post.authorProfileUrl' rel='author' title='author profile'&gt;
+                        &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+                      &lt;/a&gt;
+                    &lt;/span&gt;
+                  &lt;b:else/&gt;
+                    &lt;span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+                      &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+                    &lt;/span&gt;
+                  &lt;/b:if&gt;
+                &lt;/b:if&gt;
+              &lt;/span&gt;
+
+              &lt;span class='post-timestamp'&gt;
+                &lt;b:if cond='data:top.showTimestamp'&gt;
+                  &lt;data:top.timestampLabel/&gt;
+                  &lt;b:if cond='data:post.url'&gt;
+                    &lt;meta expr:content='data:post.url.canonical' itemprop='url'/&gt;
+                    &lt;a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'&gt;&lt;abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'&gt;&lt;data:post.timestamp/&gt;&lt;/abbr&gt;&lt;/a&gt;
+                  &lt;/b:if&gt;
+                &lt;/b:if&gt;
+              &lt;/span&gt;
+
+              &lt;span class='post-comment-link'&gt;
+                &lt;b:include cond='data:blog.pageType not in {&amp;quot;item&amp;quot;,&amp;quot;static_page&amp;quot;}                                  and data:post.allowComments' data='post' name='comment_count_picker'/&gt;
+              &lt;/span&gt;
+            &lt;/div&gt;
+
+            &lt;div class='post-footer-line post-footer-line-2'&gt;
+              &lt;b:if cond='data:top.showMobileShare'&gt;
+                &lt;div class='mobile-link-button goog-inline-block' id='mobile-share-button'&gt;
+                  &lt;a href='javascript:void(0);'&gt;&lt;data:shareMsg/&gt;&lt;/a&gt;
+                &lt;/div&gt;
+              &lt;/b:if&gt;
+              &lt;b:if cond='data:top.showDummy'&gt;
+                &lt;div class='goog-inline-block dummy-container'&gt;&lt;data:post.dummyTag/&gt;&lt;/div&gt;
+              &lt;/b:if&gt;
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;b:include cond='data:blog.pageType in {&amp;quot;static_page&amp;quot;,&amp;quot;item&amp;quot;}' data='post' name='comment_picker'/&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='nextprev'&gt;
+  &lt;div class='blog-pager' id='blog-pager'&gt;
+    &lt;b:if cond='data:newerPageUrl'&gt;
+      &lt;span id='blog-pager-newer-link'&gt;
+      &lt;a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-newer-link&amp;quot;' expr:title='data:newerPageTitle'&gt;&lt;data:newerPageTitle/&gt;&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/b:if&gt;
+
+    &lt;b:if cond='data:olderPageUrl'&gt;
+      &lt;span id='blog-pager-older-link'&gt;
+      &lt;a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-older-link&amp;quot;' expr:title='data:olderPageTitle'&gt;&lt;data:olderPageTitle/&gt;&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/b:if&gt;
+
+    &lt;a class='home-link' expr:href='data:blog.homepageUrl'&gt;&lt;data:homeMsg/&gt;&lt;/a&gt;
+
+    &lt;b:if cond='data:mobileLinkUrl'&gt;
+      &lt;div class='blog-mobile-link'&gt;
+        &lt;a expr:href='data:mobileLinkUrl'&gt;&lt;data:mobileLinkMsg/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+  &lt;/div&gt;
+  &lt;div class='clear'/&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='post' var='post'&gt;
+  &lt;div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'&gt;
+    &lt;b:if cond='data:post.firstImageUrl'&gt;
+      &lt;meta expr:content='data:post.firstImageUrl' itemprop='image_url'/&gt;
+    &lt;/b:if&gt;
+    &lt;meta expr:content='data:blog.blogId' itemprop='blogId'/&gt;
+    &lt;meta expr:content='data:post.id' itemprop='postId'/&gt;
+
+    &lt;a expr:name='data:post.id'/&gt;
+    &lt;b:if cond='data:post.title'&gt;
+      &lt;h3 class='post-title entry-title' itemprop='name'&gt;
+      &lt;b:if cond='data:post.link or (data:post.url and data:blog.url != data:post.url)'&gt;
+        &lt;a expr:href='data:post.link ? data:post.link : data:post.url'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+      &lt;b:else/&gt;
+        &lt;data:post.title/&gt;
+      &lt;/b:if&gt;
+      &lt;/h3&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='post-header'&gt;
+    &lt;div class='post-header-line-1'/&gt;
+    &lt;/div&gt;
+
+    &lt;!-- Then use the post body as the schema.org description, for good G+/FB snippeting. --&gt;
+    &lt;div class='post-body entry-content' expr:id='&amp;quot;post-body-&amp;quot; + data:post.id' expr:itemprop='(data:blog.metaDescription ? &amp;quot;&amp;quot; : &amp;quot;description &amp;quot;) + &amp;quot;articleBody&amp;quot;'&gt;
+      &lt;data:post.body/&gt;
+      &lt;div style='clear: both;'/&gt; &lt;!-- clear for photos floats --&gt;
+    &lt;/div&gt;
+
+    &lt;b:if cond='data:post.hasJumpLink'&gt;
+      &lt;div class='jump-link'&gt;
+        &lt;a expr:href='data:post.url + &amp;quot;#more&amp;quot;' expr:title='data:post.title'&gt;&lt;data:post.jumpText/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='post-footer'&gt;
+    &lt;div class='post-footer-line post-footer-line-1'&gt;
+      &lt;span class='post-author vcard'&gt;
+        &lt;b:if cond='data:top.showAuthor'&gt;
+          &lt;data:top.authorLabel/&gt;
+            &lt;b:if cond='data:post.authorProfileUrl'&gt;
+              &lt;span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+                &lt;meta expr:content='data:post.authorProfileUrl' itemprop='url'/&gt;
+                &lt;a class='g-profile' expr:href='data:post.authorProfileUrl' rel='author' title='author profile'&gt;
+                  &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+                &lt;/a&gt;
+              &lt;/span&gt;
+            &lt;b:else/&gt;
+              &lt;span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+                &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+              &lt;/span&gt;
+            &lt;/b:if&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+
+      &lt;span class='post-timestamp'&gt;
+        &lt;b:if cond='data:top.showTimestamp'&gt;
+          &lt;data:top.timestampLabel/&gt;
+          &lt;b:if cond='data:post.url'&gt;
+            &lt;meta expr:content='data:post.url.canonical' itemprop='url'/&gt;
+            &lt;a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'&gt;&lt;abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'&gt;&lt;data:post.timestamp/&gt;&lt;/abbr&gt;&lt;/a&gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+
+      &lt;span class='reaction-buttons'&gt;
+        &lt;b:if cond='data:top.showReactions'&gt;
+          &lt;table border='0' cellpadding='0' cellspacing='0' width='100%'&gt;&lt;tr&gt;
+            &lt;td class='reactions-label-cell' nowrap='nowrap' valign='top' width='1%'&gt;
+              &lt;span class='reactions-label'&gt;
+              &lt;data:top.reactionsLabel/&gt;&lt;/span&gt;&amp;#160;&lt;/td&gt;
+            &lt;td&gt;&lt;iframe allowtransparency='true' class='reactions-iframe' expr:src='data:post.reactionsUrl' frameborder='0' name='reactions' scrolling='no'/&gt;&lt;/td&gt;
+           &lt;/tr&gt;&lt;/table&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+
+      &lt;span class='post-comment-link'&gt;
+        &lt;b:include cond='data:blog.pageType not in {&amp;quot;item&amp;quot;,&amp;quot;static_page&amp;quot;}                          and data:post.allowComments' data='post' name='comment_count_picker'/&gt;
+      &lt;/span&gt;
+
+      &lt;span class='post-icons'&gt;
+        &lt;!-- email post links --&gt;
+        &lt;b:if cond='data:post.emailPostUrl'&gt;
+          &lt;span class='item-action'&gt;
+          &lt;a expr:href='data:post.emailPostUrl' expr:title='data:top.emailPostMsg'&gt;
+            &lt;img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/&gt;
+          &lt;/a&gt;
+          &lt;/span&gt;
+        &lt;/b:if&gt;
+
+        &lt;!-- quickedit pencil --&gt;
+        &lt;b:include data='post' name='postQuickEdit'/&gt;
+      &lt;/span&gt;
+
+      &lt;!-- share buttons --&gt;
+      &lt;div class='post-share-buttons goog-inline-block'&gt;
+        &lt;b:include cond='data:post.sharePostUrl' data='post' name='shareButtons'/&gt;
+      &lt;/div&gt;
+
+      &lt;/div&gt;
+
+      &lt;div class='post-footer-line post-footer-line-2'&gt;
+      &lt;span class='post-labels'&gt;
+        &lt;b:if cond='data:top.showPostLabels and data:post.labels'&gt;
+          &lt;data:postLabelsLabel/&gt;
+          &lt;b:loop values='data:post.labels' var='label'&gt;
+            &lt;a expr:href='data:label.url' rel='tag'&gt;&lt;data:label.name/&gt;&lt;/a&gt;&lt;b:if cond='not data:label.isLast'&gt;,&lt;/b:if&gt;
+          &lt;/b:loop&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+      &lt;/div&gt;
+
+      &lt;div class='post-footer-line post-footer-line-3'&gt;
+      &lt;span class='post-location'&gt;
+        &lt;b:if cond='data:top.showLocation and data:post.location'&gt;
+          &lt;data:postLocationLabel/&gt;
+          &lt;a expr:href='data:post.location.mapsUrl' target='_blank'&gt;&lt;data:post.location.name/&gt;&lt;/a&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;b:if cond='data:post.authorAboutMe'&gt;
+        &lt;div class='author-profile' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+          &lt;b:if cond='data:post.authorPhoto.url'&gt;
+            &lt;img expr:src='data:post.authorPhoto.url' itemprop='image' width='50px'/&gt;
+          &lt;/b:if&gt;
+          &lt;div&gt;
+            &lt;a class='g-profile' expr:href='data:post.authorProfileUrl' itemprop='url' rel='author' title='author profile'&gt;
+              &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+          &lt;span itemprop='description'&gt;&lt;data:post.authorAboutMe/&gt;&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='postQuickEdit' var='post'&gt;
+  &lt;b:if cond='data:post.editUrl'&gt;
+    &lt;span expr:class='&amp;quot;item-control &amp;quot; + data:post.adminClass'&gt;
+      &lt;a expr:href='data:post.editUrl' expr:title='data:top.editPostMsg'&gt;
+        &lt;img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/&gt;
+      &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='shareButtons' var='post'&gt;
+  &lt;b:if cond='data:top.showEmailButton'&gt;&lt;a class='goog-inline-block share-button sb-email' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=email&amp;quot;' expr:title='data:top.emailThisMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.emailThisMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showBlogThisButton'&gt;&lt;a class='goog-inline-block share-button sb-blog' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=blog&amp;quot;' expr:onclick='&amp;quot;window.open(this.href, \&amp;quot;_blank\&amp;quot;, \&amp;quot;height=270,width=475\&amp;quot;); return false;&amp;quot;' expr:title='data:top.blogThisMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.blogThisMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showTwitterButton'&gt;&lt;a class='goog-inline-block share-button sb-twitter' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=twitter&amp;quot;' expr:title='data:top.shareToTwitterMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToTwitterMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showFacebookButton'&gt;&lt;a class='goog-inline-block share-button sb-facebook' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=facebook&amp;quot;' expr:onclick='&amp;quot;window.open(this.href, \&amp;quot;_blank\&amp;quot;, \&amp;quot;height=430,width=640\&amp;quot;); return false;&amp;quot;' expr:title='data:top.shareToFacebookMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToFacebookMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showPinterestButton'&gt;&lt;a class='goog-inline-block share-button sb-pinterest' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=pinterest&amp;quot;' expr:title='data:top.shareToPinterestMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToPinterestMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showPlusOne'&gt;&lt;div class='goog-inline-block google-plus-share-container'&gt;&lt;data:post.googlePlusShareTag/&gt;&lt;/div&gt;&lt;/b:if&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='status-message'&gt;
+  &lt;b:if cond='data:navMessage'&gt;
+  &lt;div class='status-msg-wrap'&gt;
+    &lt;div class='status-msg-body'&gt;
+      &lt;data:navMessage/&gt;
+    &lt;/div&gt;
+    &lt;div class='status-msg-border'&gt;
+      &lt;div class='status-msg-bg'&gt;
+        &lt;div class='status-msg-hidden'&gt;&lt;data:navMessage/&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div style='clear: both;'/&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='threaded-comment-form' var='post'&gt;
+  &lt;div class='comment-form'&gt;
+    &lt;a name='comment-form'/&gt;
+    &lt;b:if cond='data:mobile'&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/&gt;
+    &lt;b:else/&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/&gt;
+    &lt;/b:if&gt;
+    &lt;data:post.cmtfpIframe/&gt;
+    &lt;script type='text/javascript'&gt;
+      BLOG_CMT_createIframe(&amp;#39;&lt;data:post.appRpcRelayPath/&gt;&amp;#39;);
+    &lt;/script&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='threaded_comment_js' var='post'&gt;
+  &lt;script async='async' expr:src='data:post.commentSrc' type='text/javascript'/&gt;
+
+  &lt;script type='text/javascript'&gt;
+    (function() {
+      var items = &lt;data:post.commentJso/&gt;;
+      var msgs = &lt;data:post.commentMsgs/&gt;;
+      var config = &lt;data:post.commentConfig/&gt;;
+
+// &lt;![CDATA[
+      var cursor = null;
+      if (items &amp;&amp; items.length &gt; 0) {
+        cursor = parseInt(items[items.length - 1].timestamp) + 1;
+      }
+
+      var bodyFromEntry = function(entry) {
+        var text = (entry &amp;&amp;
+                    ((entry.content &amp;&amp; entry.content.$t) ||
+                     (entry.summary &amp;&amp; entry.summary.$t))) ||
+            '';
+        if (entry &amp;&amp; entry.gd$extendedProperty) {
+          for (var k in entry.gd$extendedProperty) {
+            if (entry.gd$extendedProperty[k].name == 'blogger.contentRemoved') {
+              return '&lt;span class="deleted-comment"&gt;' + text + '&lt;/span&gt;';
+            }
+          }
+        }
+        return text;
+      }
+
+      var parse = function(data) {
+        cursor = null;
+        var comments = [];
+        if (data &amp;&amp; data.feed &amp;&amp; data.feed.entry) {
+          for (var i = 0, entry; entry = data.feed.entry[i]; i++) {
+            var comment = {};
+            // comment ID, parsed out of the original id format
+            var id = /blog-(\d+).post-(\d+)/.exec(entry.id.$t);
+            comment.id = id ? id[2] : null;
+            comment.body = bodyFromEntry(entry);
+            comment.timestamp = Date.parse(entry.published.$t) + '';
+            if (entry.author &amp;&amp; entry.author.constructor === Array) {
+              var auth = entry.author[0];
+              if (auth) {
+                comment.author = {
+                  name: (auth.name ? auth.name.$t : undefined),
+                  profileUrl: (auth.uri ? auth.uri.$t : undefined),
+                  avatarUrl: (auth.gd$image ? auth.gd$image.src : undefined)
+                };
+              }
+            }
+            if (entry.link) {
+              if (entry.link[2]) {
+                comment.link = comment.permalink = entry.link[2].href;
+              }
+              if (entry.link[3]) {
+                var pid = /.*comments\/default\/(\d+)\?.*/.exec(entry.link[3].href);
+                if (pid &amp;&amp; pid[1]) {
+                  comment.parentId = pid[1];
+                }
+              }
+            }
+            comment.deleteclass = 'item-control blog-admin';
+            if (entry.gd$extendedProperty) {
+              for (var k in entry.gd$extendedProperty) {
+                if (entry.gd$extendedProperty[k].name == 'blogger.itemClass') {
+                  comment.deleteclass += ' ' + entry.gd$extendedProperty[k].value;
+                } else if (entry.gd$extendedProperty[k].name == 'blogger.displayTime') {
+                  comment.displayTime = entry.gd$extendedProperty[k].value;
+                }
+              }
+            }
+            comments.push(comment);
+          }
+        }
+        return comments;
+      };
+
+      var paginator = function(callback) {
+        if (hasMore()) {
+          var url = config.feed + '?alt=json&amp;v=2&amp;orderby=published&amp;reverse=false&amp;max-results=50';
+          if (cursor) {
+            url += '&amp;published-min=' + new Date(cursor).toISOString();
+          }
+          window.bloggercomments = function(data) {
+            var parsed = parse(data);
+            cursor = parsed.length &lt; 50 ? null
+                : parseInt(parsed[parsed.length - 1].timestamp) + 1
+            callback(parsed);
+            window.bloggercomments = null;
+          }
+          url += '&amp;callback=bloggercomments';
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = url;
+          document.getElementsByTagName('head')[0].appendChild(script);
+        }
+      };
+      var hasMore = function() {
+        return !!cursor;
+      };
+      var getMeta = function(key, comment) {
+        if ('iswriter' == key) {
+          var matches = !!comment.author
+              &amp;&amp; comment.author.name == config.authorName
+              &amp;&amp; comment.author.profileUrl == config.authorUrl;
+          return matches ? 'true' : '';
+        } else if ('deletelink' == key) {
+          return config.baseUri + '/delete-comment.g?blogID='
+               + config.blogId + '&amp;postID=' + comment.id;
+        } else if ('deleteclass' == key) {
+          return comment.deleteclass;
+        }
+        return '';
+      };
+
+      var replybox = null;
+      var replyUrlParts = null;
+      var replyParent = undefined;
+
+      var onReply = function(commentId, domId) {
+        if (replybox == null) {
+          // lazily cache replybox, and adjust to suit this style:
+          replybox = document.getElementById('comment-editor');
+          if (replybox != null) {
+            replybox.height = '250px';
+            replybox.style.display = 'block';
+            replyUrlParts = replybox.src.split('#');
+          }
+        }
+        if (replybox &amp;&amp; (commentId !== replyParent)) {
+          replybox.src = '';
+          document.getElementById(domId).insertBefore(replybox, null);
+          replybox.src = replyUrlParts[0]
+              + (commentId ? '&amp;parentID=' + commentId : '')
+              + '#' + replyUrlParts[1];
+          replyParent = commentId;
+        }
+      };
+
+      var hash = (window.location.hash || '#').substring(1);
+      var startThread, targetComment;
+      if (/^comment-form_/.test(hash)) {
+        startThread = hash.substring('comment-form_'.length);
+      } else if (/^c[0-9]+$/.test(hash)) {
+        targetComment = hash.substring(1);
+      }
+
+      // Configure commenting API:
+      var configJso = {
+        'maxDepth': config.maxThreadDepth
+      };
+      var provider = {
+        'id': config.postId,
+        'data': items,
+        'loadNext': paginator,
+        'hasMore': hasMore,
+        'getMeta': getMeta,
+        'onReply': onReply,
+        'rendered': true,
+        'initComment': targetComment,
+        'initReplyThread': startThread,
+        'config': configJso,
+        'messages': msgs
+      };
+
+      var render = function() {
+        if (window.goog &amp;&amp; window.goog.comments) {
+          var holder = document.getElementById('comment-holder');
+          window.goog.comments.render(holder, provider);
+        }
+      };
+
+      // render now, or queue to render when library loads:
+      if (window.goog &amp;&amp; window.goog.comments) {
+        render();
+      } else {
+        window.goog = window.goog || {};
+        window.goog.comments = window.goog.comments || {};
+        window.goog.comments.loadQueue = window.goog.comments.loadQueue || [];
+        window.goog.comments.loadQueue.push(render);
+      }
+    })();
+// ]]&gt;
+  &lt;/script&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='threaded_comments' var='post'&gt;
+  &lt;div class='comments' id='comments'&gt;
+    &lt;a name='comments'/&gt;
+    &lt;h4&gt;&lt;data:post.commentLabelFull/&gt;:&lt;/h4&gt;
+
+    &lt;div class='comments-content'&gt;
+      &lt;b:include cond='data:post.embedCommentForm' data='post' name='threaded_comment_js'/&gt;
+      &lt;div id='comment-holder'&gt;
+         &lt;data:post.commentHtml/&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;p class='comment-footer'&gt;
+      &lt;b:if cond='data:post.allowNewComments'&gt;
+        &lt;b:include data='post' name='threaded-comment-form'/&gt;
+      &lt;b:else/&gt;
+        &lt;data:post.noNewCommentsText/&gt;
+      &lt;/b:if&gt;
+    &lt;/p&gt;
+
+    &lt;b:if cond='data:showCmtPopup'&gt;
+      &lt;div id='comment-popup'&gt;
+        &lt;iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'&gt;
+        &lt;/iframe&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div id='backlinks-container'&gt;
+    &lt;div expr:id='data:widget.instanceId + &amp;quot;_backlinks-container&amp;quot;'&gt;
+      &lt;b:include cond='data:post.showBacklinks' data='post' name='backlinks'/&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+            &lt;/b:widget&gt;
+          &lt;/b:section&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div class='column-left-outer'&gt;
+        &lt;div class='column-left-inner'&gt;
+          &lt;aside&gt;
+          &lt;macro:include id='main-column-left-sections' name='sections'&gt;
+            &lt;macro:param default='0' name='num' value='0'/&gt;
+            &lt;macro:param default='sidebar-left' name='idPrefix'/&gt;
+            &lt;macro:param default='sidebar' name='class'/&gt;
+            &lt;macro:param default='true' name='includeBottom'/&gt;
+          &lt;/macro:include&gt;
+          &lt;/aside&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div class='column-right-outer'&gt;
+        &lt;div class='column-right-inner'&gt;
+          &lt;aside&gt;
+          &lt;macro:include id='main-column-right-sections' name='sections'&gt;
+            &lt;macro:param default='2' name='num' value='1'/&gt;
+            &lt;macro:param default='sidebar-right' name='idPrefix'/&gt;
+            &lt;macro:param default='sidebar' name='class'/&gt;
+            &lt;macro:param default='true' name='includeBottom'/&gt;
+          &lt;/macro:include&gt;
+          &lt;/aside&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;/div&gt;
+
+        &lt;div style='clear: both'/&gt;
+      &lt;!-- columns --&gt;
+      &lt;/div&gt;
+
+    &lt;!-- main --&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class='main-cap-bottom cap-bottom'&gt;
+      &lt;div class='cap-left'/&gt;
+      &lt;div class='cap-right'/&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;footer&gt;
+    &lt;div class='footer-outer'&gt;
+    &lt;div class='footer-cap-top cap-top'&gt;
+      &lt;div class='cap-left'/&gt;
+      &lt;div class='cap-right'/&gt;
+    &lt;/div&gt;
+    &lt;div class='fauxborder-left footer-fauxborder-left'&gt;
+    &lt;div class='fauxborder-right footer-fauxborder-right'/&gt;
+    &lt;div class='region-inner footer-inner'&gt;
+      &lt;macro:include id='footer-sections' name='sections'&gt;
+        &lt;macro:param default='2' name='num'/&gt;
+        &lt;macro:param default='footer' name='idPrefix'/&gt;
+        &lt;macro:param default='foot' name='class'/&gt;
+        &lt;macro:param default='false' name='includeBottom'/&gt;
+      &lt;/macro:include&gt;
+      &lt;!-- outside of the include in order to lock Attribution widget --&gt;
+      &lt;b:section class='foot' id='footer-3' name='Footer' showaddelement='no'&gt;
+        &lt;b:widget id='Attribution1' locked='true' title='' type='Attribution'&gt;
+          &lt;b:widget-settings&gt;
+            &lt;b:widget-setting name='copyright'/&gt;
+          &lt;/b:widget-settings&gt;
+          &lt;b:includable id='main'&gt;
+    &lt;div class='widget-content' style='text-align: center;'&gt;
+      &lt;b:if cond='data:attribution != &amp;quot;&amp;quot;'&gt;
+       &lt;data:attribution/&gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+
+    &lt;b:include name='quickedit'/&gt;
+  &lt;/b:includable&gt;
+        &lt;/b:widget&gt;
+      &lt;/b:section&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class='footer-cap-bottom cap-bottom'&gt;
+      &lt;div class='cap-left'/&gt;
+      &lt;div class='cap-right'/&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/footer&gt;
+
+  &lt;!-- content --&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class='content-cap-bottom cap-bottom'&gt;
+    &lt;div class='cap-left'/&gt;
+    &lt;div class='cap-right'/&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;script type='text/javascript'&gt;
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace(&amp;#39;loading&amp;#39;, &amp;#39;&amp;#39;);
+      }, 10);
+  &lt;/script&gt;
+&lt;/body&gt;
+
+&lt;macro:includable id='sections' var='col'&gt;
+  &lt;macro:if cond='data:col.num == 0'&gt;
+  &lt;macro:else/&gt;
+    &lt;b:section mexpr:class='data:col.class' mexpr:id='data:col.idPrefix + &amp;quot;-1&amp;quot;' preferred='yes' showaddelement='yes'/&gt;
+
+    &lt;macro:if cond='data:col.num &amp;gt;= 2'&gt;
+      &lt;table border='0' cellpadding='0' cellspacing='0' mexpr:class='&amp;quot;section-columns columns-&amp;quot; + data:col.num'&gt;
+      &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td class='first columns-cell'&gt;
+          &lt;b:section mexpr:class='data:col.class' mexpr:id='data:col.idPrefix + &amp;quot;-2-1&amp;quot;'/&gt;
+        &lt;/td&gt;
+
+        &lt;td class='columns-cell'&gt;
+          &lt;b:section mexpr:class='data:col.class' mexpr:id='data:col.idPrefix + &amp;quot;-2-2&amp;quot;'/&gt;
+        &lt;/td&gt;
+
+        &lt;macro:if cond='data:col.num &amp;gt;= 3'&gt;
+          &lt;td class='columns-cell'&gt;
+            &lt;b:section mexpr:class='data:col.class' mexpr:id='data:col.idPrefix + &amp;quot;-2-3&amp;quot;'/&gt;
+          &lt;/td&gt;
+        &lt;/macro:if&gt;
+
+        &lt;macro:if cond='data:col.num &amp;gt;= 4'&gt;
+          &lt;td class='columns-cell'&gt;
+            &lt;b:section mexpr:class='data:col.class' mexpr:id='data:col.idPrefix + &amp;quot;-2-4&amp;quot;'/&gt;
+          &lt;/td&gt;
+        &lt;/macro:if&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+
+      &lt;macro:if cond='data:col.includeBottom'&gt;
+        &lt;b:section mexpr:class='data:col.class' mexpr:id='data:col.idPrefix + &amp;quot;-3&amp;quot;' showaddelement='no'/&gt;
+      &lt;/macro:if&gt;
+    &lt;/macro:if&gt;
+  &lt;/macro:if&gt;
+&lt;/macro:includable&gt;
+
+&lt;b:section-contents id='sidebar-right-1'&gt;
+  &lt;b:widget id='Profile1' locked='false' title='Contributeurs' type='Profile'&gt;
+    &lt;b:widget-settings&gt;
+      &lt;b:widget-setting name='showaboutme'&gt;true&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='showlocation'&gt;false&lt;/b:widget-setting&gt;
+    &lt;/b:widget-settings&gt;
+    &lt;b:includable id='main'&gt;
+    &lt;b:if cond='data:title != &amp;quot;&amp;quot;'&gt;
+      &lt;h2&gt;&lt;data:title/&gt;&lt;/h2&gt;
+    &lt;/b:if&gt;
+    &lt;div class='widget-content'&gt;
+    &lt;b:if cond='data:team'&gt; &lt;!-- team blog profile --&gt;
+      &lt;ul&gt;
+        &lt;b:loop values='data:authors' var='i'&gt;
+          &lt;li&gt;&lt;a class='profile-name-link g-profile' expr:href='data:i.userUrl' expr:style='&amp;quot;background-image: url(&amp;quot; + data:i.profileLogo + &amp;quot;);&amp;quot;'&gt;&lt;data:i.display-name/&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;/b:loop&gt;
+      &lt;/ul&gt;
+
+    &lt;b:else/&gt; &lt;!-- normal blog profile --&gt;
+
+      &lt;b:if cond='data:photo.url != &amp;quot;&amp;quot;'&gt;
+        &lt;a expr:href='data:userUrl'&gt;&lt;img class='profile-img' expr:alt='data:messages.myPhoto' expr:height='data:photo.height' expr:src='data:photo.url' expr:width='data:photo.width'/&gt;&lt;/a&gt;
+      &lt;/b:if&gt;
+
+      &lt;dl class='profile-datablock'&gt;
+        &lt;dt class='profile-data'&gt;
+          &lt;a class='profile-name-link g-profile' expr:href='data:userUrl' expr:style='&amp;quot;background-image: url(&amp;quot; + data:profileLogo + &amp;quot;);&amp;quot;' rel='author'&gt;
+            &lt;data:displayname/&gt;
+          &lt;/a&gt;
+          &lt;b:if cond='data:hasgoogleprofile'&gt;
+            &lt;br/&gt;
+            &lt;div class='g-follow' data-annotation='bubble' data-height='20' expr:data-href='data:userUrl'/&gt;
+          &lt;/b:if&gt;
+        &lt;/dt&gt;
+
+        &lt;b:if cond='data:showlocation'&gt;
+          &lt;dd class='profile-data'&gt;&lt;data:location/&gt;&lt;/dd&gt;
+        &lt;/b:if&gt;
+
+        &lt;b:if cond='data:aboutme != &amp;quot;&amp;quot;'&gt;&lt;dd class='profile-textblock'&gt;&lt;data:aboutme/&gt;&lt;/dd&gt;&lt;/b:if&gt;
+      &lt;/dl&gt;
+      &lt;a class='profile-link' expr:href='data:userUrl' rel='author'&gt;&lt;data:viewProfileMsg/&gt;&lt;/a&gt;
+    &lt;/b:if&gt;
+
+     &lt;b:include name='quickedit'/&gt;
+    &lt;/div&gt;
+  &lt;/b:includable&gt;
+  &lt;/b:widget&gt;
+  &lt;b:widget id='BlogArchive1' locked='false' title='Archive du blog' type='BlogArchive'&gt;
+    &lt;b:widget-settings&gt;
+      &lt;b:widget-setting name='showStyle'&gt;HIERARCHY&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='yearPattern'&gt;yyyy&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='showWeekEnd'&gt;true&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='monthPattern'&gt;MMMM&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='dayPattern'&gt;MMM dd&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='weekPattern'&gt;MM/dd&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='chronological'&gt;false&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='showPosts'&gt;true&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='frequency'&gt;MONTHLY&lt;/b:widget-setting&gt;
+    &lt;/b:widget-settings&gt;
+    &lt;b:includable id='main'&gt;
+  &lt;b:if cond='data:title != &amp;quot;&amp;quot;'&gt;
+    &lt;h2&gt;&lt;data:title/&gt;&lt;/h2&gt;
+  &lt;/b:if&gt;
+  &lt;div class='widget-content'&gt;
+  &lt;div id='ArchiveList'&gt;
+  &lt;div expr:id='data:widget.instanceId + &amp;quot;_ArchiveList&amp;quot;'&gt;
+    &lt;b:include cond='data:style == &amp;quot;HIERARCHY&amp;quot;' data='data' name='interval'/&gt;
+    &lt;b:include cond='data:style == &amp;quot;FLAT&amp;quot;' data='data' name='flat'/&gt;
+    &lt;b:include cond='data:style == &amp;quot;MENU&amp;quot;' data='data' name='menu'/&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;b:include name='quickedit'/&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='flat' var='data'&gt;
+  &lt;ul class='flat'&gt;
+    &lt;b:loop values='data:data' var='i'&gt;
+      &lt;li class='archivedate'&gt;
+        &lt;a expr:href='data:i.url'&gt;&lt;data:i.name/&gt;&lt;/a&gt; (&lt;data:i.post-count/&gt;)
+      &lt;/li&gt;
+    &lt;/b:loop&gt;
+  &lt;/ul&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='interval' var='intervalData'&gt;
+  &lt;b:loop values='data:intervalData' var='interval'&gt;
+    &lt;ul class='hierarchy'&gt;
+      &lt;li expr:class='&amp;quot;archivedate &amp;quot; + data:interval.expclass'&gt;
+        &lt;b:include cond='data:interval.toggleId' data='interval' name='toggle'/&gt;
+        &lt;a class='post-count-link' expr:href='data:interval.url'&gt;
+          &lt;data:interval.name/&gt;
+        &lt;/a&gt;
+        &lt;span class='post-count' dir='ltr'&gt;(&lt;data:interval.post-count/&gt;)&lt;/span&gt;
+        &lt;b:include cond='data:interval.data' data='interval.data' name='interval'/&gt;
+        &lt;b:include cond='data:interval.posts' data='interval.posts' name='posts'/&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/b:loop&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='menu' var='data'&gt;
+  &lt;select expr:id='data:widget.instanceId + &amp;quot;_ArchiveMenu&amp;quot;'&gt;
+    &lt;option value=''&gt;&lt;data:title/&gt;&lt;/option&gt;
+    &lt;b:loop values='data:data' var='i'&gt;
+      &lt;option expr:value='data:i.url'&gt;&lt;data:i.name/&gt; (&lt;data:i.post-count/&gt;)&lt;/option&gt;
+    &lt;/b:loop&gt;
+  &lt;/select&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='posts' var='posts'&gt;
+  &lt;ul class='posts'&gt;
+    &lt;b:loop values='data:posts' var='post'&gt;
+      &lt;li&gt;&lt;a expr:href='data:post.url'&gt;&lt;data:post.title/&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/b:loop&gt;
+  &lt;/ul&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='toggle' var='interval'&gt;
+  &lt;a class='toggle' href='javascript:void(0)'&gt;
+    &lt;span expr:class='&amp;quot;zippy&amp;quot; + (data:interval.expclass == &amp;quot;expanded&amp;quot; ? &amp;quot; toggle-open&amp;quot; : &amp;quot;&amp;quot;)'&gt;
+      &lt;b:if cond='data:interval.expclass == &amp;quot;expanded&amp;quot;'&gt;
+        &amp;#9660;&amp;#160;
+      &lt;b:elseif cond='data:blog.languageDirection == &amp;quot;rtl&amp;quot;'/&gt;
+        &amp;#9668;&amp;#160;
+      &lt;b:else/&gt;
+        &amp;#9658;&amp;#160;
+      &lt;/b:if&gt;
+    &lt;/span&gt;
+  &lt;/a&gt;
+&lt;/b:includable&gt;
+  &lt;/b:widget&gt;
+&lt;/b:section-contents&gt;&lt;b:section-contents id='footer-1'/&gt;&lt;b:section-contents id='footer-2-1'/&gt;&lt;b:section-contents id='footer-2-2'/&gt;&lt;/html&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/template/default'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/template/default'/><link rel='alternate' type='text/html' href='http://cdvl91-sites-activites-en-essonne.blogspot.com/'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_PUBLISHING_MODE</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Type de publication réalisée pour ce blog.</title><content type='text'>PUBLISH_MODE_BLOGSPOT</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_PUBLISHING_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_PUBLISHING_MODE'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_ADMIN_PERMISSION</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Liste des e-mails des administrateurs du blog.</title><content type='text'>bayle.jonathan@gmail.com,robertalakian26@gmail.com</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_ADMIN_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_ADMIN_PERMISSION'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_ADULT_CONTENT</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Déterminer si ce blog comporte des éléments réservés aux adultes</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_ADULT_CONTENT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_ADULT_CONTENT'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_ALTERNATE_JSRENDER_ALLOWED</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Autoriser d'autres rendus JavaScript</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_ALTERNATE_JSRENDER_ALLOWED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_ALTERNATE_JSRENDER_ALLOWED'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_ANALYTICS_ACCOUNT_NUMBER</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Numéro de compte Google Analytics du blog</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_ANALYTICS_ACCOUNT_NUMBER'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_ANALYTICS_ACCOUNT_NUMBER'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_ARCHIVE_DATE_FORMAT</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Le numéro de format de date de l'index des archives</title><content type='text'>9</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_ARCHIVE_DATE_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_ARCHIVE_DATE_FORMAT'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_ARCHIVE_FREQUENCY</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Fréquence à laquelle ce blog doit être archivé</title><content type='text'>MONTHLY</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_ARCHIVE_FREQUENCY'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_ARCHIVE_FREQUENCY'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_AUTHOR_PERMISSION</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Liste des adresses e-mail des auteurs autorisés à publier.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_AUTHOR_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_AUTHOR_PERMISSION'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_BY_POST_ARCHIVING</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Fournir ou non une page d'archivage pour chaque article</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_BY_POST_ARCHIVING'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_BY_POST_ARCHIVING'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_COMMENT_ACCESS</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Qui peut ajouter des commentaires</title><content type='text'>BLOGGERS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_ACCESS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_ACCESS'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_COMMENT_CAPTCHA</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Demander ou non aux auteurs de commentaires de passer un test Captcha</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_CAPTCHA'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_CAPTCHA'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_COMMENT_EMAIL</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Liste d'adresses e-mail auxquelles les notifications de nouveaux commentaires doivent être envoyées</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_EMAIL'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_COMMENT_FEED</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Type de flux à fournir pour les commentaires de blog</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_FEED'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_COMMENT_FORM_LOCATION</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Emplacement du formulaire de commentaire de blog</title><content type='text'>EMBEDDED_IFRAME</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_FORM_LOCATION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_FORM_LOCATION'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_COMMENT_MESSAGE</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Message de commentaire de blog</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_MESSAGE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_MESSAGE'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_COMMENT_MODERATION</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Activer ou non la modération des commentaires</title><content type='text'>DISABLED</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_MODERATION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_MODERATION'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_COMMENT_MODERATION_DELAY</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Nombre de jours à l'issue duquel les nouveaux commentaires feront l'objet d'une modération</title><content type='text'>14</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_MODERATION_DELAY'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_MODERATION_DELAY'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_COMMENT_MODERATION_EMAIL</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Adresse e-mail à laquelle doivent être envoyées les notifications des nouveaux commentaires nécessitant une modération</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_MODERATION_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_MODERATION_EMAIL'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_COMMENT_PROFILE_IMAGES</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Activer ou non l'affichage des images de profil dans les commentaires</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_PROFILE_IMAGES'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENT_PROFILE_IMAGES'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_COMMENTS_ALLOWED</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Activer ou non l'affichage de commentaires</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENTS_ALLOWED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENTS_ALLOWED'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_COMMENTS_TIME_STAMP_FORMAT</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Numéro de format de l'horodatage du commentaire</title><content type='text'>29</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENTS_TIME_STAMP_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_COMMENTS_TIME_STAMP_FORMAT'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_CONVERT_LINE_BREAKS</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Activer ou non la conversion des sauts de ligne en balises &lt;br /&gt; dans l'éditeur d'articles</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_CONVERT_LINE_BREAKS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_CONVERT_LINE_BREAKS'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_CUSTOM_ADS_TXT</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Fichier ads.txt personnalisé du blog renvoyé aux moteurs de recherche diffusant des annonces.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_CUSTOM_ADS_TXT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_CUSTOM_ADS_TXT'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_CUSTOM_ADS_TXT_ENABLED</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Indique si ce blog renvoie un fichier ads.txt personnalisé aux moteurs de recherche diffusant des annonces.</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_CUSTOM_ADS_TXT_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_CUSTOM_ADS_TXT_ENABLED'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_CUSTOM_PAGE_NOT_FOUND</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Contenu affiché lorsque l'article ou la page demandés ne sont pas trouvés.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_CUSTOM_PAGE_NOT_FOUND'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_CUSTOM_PAGE_NOT_FOUND'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_CUSTOM_ROBOTS_TXT</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Fichier robots.txt personnalisé du blog renvoyé aux moteurs de recherche.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_CUSTOM_ROBOTS_TXT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_CUSTOM_ROBOTS_TXT'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_CUSTOM_ROBOTS_TXT_ENABLED</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Indique si ce blog renvoie un fichier robots.txt personnalisé aux moteurs de recherche.</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_CUSTOM_ROBOTS_TXT_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_CUSTOM_ROBOTS_TXT_ENABLED'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_DATE_FORMAT</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Le numéro de format d'en-tête de la date</title><content type='text'>26</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_DATE_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_DATE_FORMAT'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_DEFAULT_COMMENTS_MODE</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Mode commentaire par défaut pour les articles</title><content type='text'>DEFAULT_HAVE_COMMENTS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_DEFAULT_COMMENTS_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_DEFAULT_COMMENTS_MODE'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_DESCRIPTION</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Une description du blog</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_DESCRIPTION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_DESCRIPTION'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_EMAIL_POST_LINKS</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Afficher ou non un lien d'envoi des articles par e-mail pour les utilisateurs</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_EMAIL_POST_LINKS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_EMAIL_POST_LINKS'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_FEED_REDIRECT_URL</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>URL vers laquelle les demandes de flux d'articles doivent être redirigées</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_FEED_REDIRECT_URL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_FEED_REDIRECT_URL'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_FLOAT_ALIGNMENT</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Activer ou non l'alignement flottant pour le blog</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_FLOAT_ALIGNMENT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_FLOAT_ALIGNMENT'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_LOCALE</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Langue pour ce blog</title><content type='text'>fr</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_LOCALE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_LOCALE'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_MAX_NUM</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Nombre maximum d'éléments à afficher sur la page principale"</title><content type='text'>7</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_MAX_NUM'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_MAX_NUM'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_MAX_UNIT</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Ensemble d'éléments à afficher sur la page principale</title><content type='text'>POSTS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_MAX_UNIT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_MAX_UNIT'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_META_DESCRIPTION</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Texte de la balise meta description du blog trouvé par les moteurs de recherche.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_META_DESCRIPTION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_META_DESCRIPTION'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_META_DESCRIPTION_ENABLED</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Référencement du blog à l'aide de balises meta description.</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_META_DESCRIPTION_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_META_DESCRIPTION_ENABLED'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_NAME</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Le nom du blog</title><content type='text'>CDVL91 sites d'activité de l'essonne</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_NAME'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_NAME'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_PER_POST_FEED</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Type de flux à fournir pour les commentaires associés à des articles de blog particuliers</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_PER_POST_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_PER_POST_FEED'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_POST_FEED</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Type de flux à fournir pour les articles de blog</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_POST_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_POST_FEED'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_POST_FEED_FOOTER</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Pied de page à ajouter à la fin de chaque entrée du flux d'articles</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_POST_FEED_FOOTER'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_POST_FEED_FOOTER'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_POST_TEMPLATE</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Le modèle des articles du blog</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_POST_TEMPLATE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_POST_TEMPLATE'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_PROMOTED</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Activer ou non la promotion de ce blog sur Blogger</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_PROMOTED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_PROMOTED'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_QUICK_EDITING</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Activer ou non la Modification rapide</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_QUICK_EDITING'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_QUICK_EDITING'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_READ_ACCESS_MODE</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Type d'accès pour les lecteurs du blog.</title><content type='text'>PUBLIC</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_READ_ACCESS_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_READ_ACCESS_MODE'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_READER_PERMISSION</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Liste d'e-mails des utilisateurs qui sont autorisés à lire le blog.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_READER_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_READER_PERMISSION'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_SEARCHABLE</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Activer ou non l'indexation de ce blog par des moteurs de recherche</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_SEARCHABLE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_SEARCHABLE'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_SEND_EMAIL</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Liste d'adresses e-mail séparées par une virgule auxquelles les nouveaux articles de blog doivent être envoyés</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_SEND_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_SEND_EMAIL'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_SHOW_TITLE</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Afficher ou non le champ de titre</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_SHOW_TITLE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_SHOW_TITLE'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_SHOW_URL</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Activer ou non l'affichage d'un champ pour le lien associé dans la fenêtre de rédaction des articles</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_SHOW_URL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_SHOW_URL'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_SUBDOMAIN</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Sous-domaine BlogSpot sur lequel votre blog doit être publié</title><content type='text'>cdvl91-sites-activites-en-essonne</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_SUBDOMAIN'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_SUBDOMAIN'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_TIME_STAMP_FORMAT</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Le numéro de format d'horodatage</title><content type='text'>27</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_TIME_STAMP_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_TIME_STAMP_FORMAT'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_TIME_ZONE</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Le fuseau horaire pour ce blog</title><content type='text'>America/Los_Angeles</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_TIME_ZONE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_TIME_ZONE'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.settings.BLOG_USE_LIGHTBOX</id><published>2017-01-16T07:14:36.850-08:00</published><updated>2021-01-18T02:50:46.846-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Indique s'il faut afficher les images en mode lightbox lorsque l'utilisateur clique sur ces dernières</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_USE_LIGHTBOX'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/settings/BLOG_USE_LIGHTBOX'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-2681397194078422720.post-5083336079889250346</id><published>2017-01-16T07:22:00.000-08:00</published><updated>2017-01-16T07:34:41.533-08:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><title type='text'>Journée de treuil à Mérobert   oct 2016</title><content type='html'>&lt;!--[if gte mso 9]&gt;&lt;xml&gt; &lt;o:OfficeDocumentSettings&gt;  &lt;o:AllowPNG/&gt; &lt;/o:OfficeDocumentSettings&gt;&lt;/xml&gt;&lt;![endif]--&gt;Janv. 2017 &lt;br /&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; &lt;w:WordDocument&gt;  &lt;w:View&gt;Normal&lt;/w:View&gt;  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;  &lt;w:TrackMoves/&gt;  &lt;w:TrackFormatting/&gt;  &lt;w:HyphenationZone&gt;21&lt;/w:HyphenationZone&gt;  &lt;w:PunctuationKerning/&gt;  &lt;w:ValidateAgainstSchemas/&gt;  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;  &lt;w:DoNotPromoteQF/&gt;  &lt;w:LidThemeOther&gt;FR&lt;/w:LidThemeOther&gt;  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;  &lt;w:Compatibility&gt;   &lt;w:BreakWrappedTables/&gt;   &lt;w:SnapToGridInCell/&gt;   &lt;w:WrapTextWithPunct/&gt;   &lt;w:UseAsianBreakRules/&gt;   &lt;w:DontGrowAutofit/&gt;   &lt;w:SplitPgBreakAndParaMark/&gt;   &lt;w:EnableOpenTypeKerning/&gt;   &lt;w:DontFlipMirrorIndents/&gt;   &lt;w:OverrideTableStyleHps/&gt;  &lt;/w:Compatibility&gt;  &lt;m:mathPr&gt;   &lt;m:mathFont m:val="Cambria Math"/&gt;   &lt;m:brkBin m:val="before"/&gt;   &lt;m:brkBinSub m:val="&amp;#45;-"/&gt;   &lt;m:smallFrac m:val="off"/&gt;   &lt;m:dispDef/&gt;   &lt;m:lMargin m:val="0"/&gt;   &lt;m:rMargin m:val="0"/&gt;   &lt;m:defJc m:val="centerGroup"/&gt;   &lt;m:wrapIndent m:val="1440"/&gt;   &lt;m:intLim m:val="subSup"/&gt;   &lt;m:naryLim m:val="undOvr"/&gt;  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; &lt;w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"   DefSemiHidden="true" DefQFormat="false" DefPriority="99"   LatentStyleCount="267"&gt;  &lt;w:LsdException Locked="false" Priority="0" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Normal"/&gt;  &lt;w:LsdException Locked="false" SemiHidden="false" UnhideWhenUsed="false"    QFormat="true" Name="heading 1"/&gt;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/&gt;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/&gt;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/&gt;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/&gt;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/&gt;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/&gt;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/&gt;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/&gt;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 1"/&gt;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 2"/&gt;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 3"/&gt;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 4"/&gt;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 5"/&gt;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 6"/&gt;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 7"/&gt;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 8"/&gt;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 9"/&gt;  &lt;w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/&gt;  &lt;w:LsdException Locked="false" Priority="10" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Title"/&gt;  &lt;w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/&gt;  &lt;w:LsdException Locked="false" Priority="11" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/&gt;  &lt;w:LsdException Locked="false" Priority="22" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Strong"/&gt;  &lt;w:LsdException Locked="false" Priority="20" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/&gt;  &lt;w:LsdException Locked="false" Priority="59" SemiHidden="false"    UnhideWhenUsed="false" Name="Table Grid"/&gt;  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/&gt;  &lt;w:LsdException Locked="false" Priority="1" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/&gt;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading"/&gt;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List"/&gt;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid"/&gt;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1"/&gt;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2"/&gt;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1"/&gt;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2"/&gt;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1"/&gt;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2"/&gt;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3"/&gt;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List"/&gt;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading"/&gt;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List"/&gt;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid"/&gt;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 1"/&gt;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List Accent 1"/&gt;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 1"/&gt;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/&gt;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/&gt;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/&gt;  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/&gt;  &lt;w:LsdException Locked="false" Priority="34" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/&gt;  &lt;w:LsdException Locked="false" Priority="29" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Quote"/&gt;  &lt;w:LsdException Locked="false" Priority="30" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/&gt;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/&gt;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/&gt;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/&gt;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/&gt;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 1"/&gt;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/&gt;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List Accent 1"/&gt;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/&gt;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/&gt;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/&gt;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/&gt;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/&gt;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false" Name="Light List Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful List Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/&gt;  &lt;w:LsdException Locked="false" Priority="19" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/&gt;  &lt;w:LsdException Locked="false" Priority="21" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/&gt;  &lt;w:LsdException Locked="false" Priority="31" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/&gt;  &lt;w:LsdException Locked="false" Priority="32" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/&gt;  &lt;w:LsdException Locked="false" Priority="33" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Book Title"/&gt;  &lt;w:LsdException Locked="false" Priority="37" Name="Bibliography"/&gt;  &lt;w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/&gt; &lt;/w:LatentStyles&gt;&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&lt;style&gt; /* Style Definitions */  table.MsoNormalTable  {mso-style-name:"Tableau Normal";  mso-tstyle-rowband-size:0;  mso-tstyle-colband-size:0;  mso-style-noshow:yes;  mso-style-priority:99;  mso-style-parent:"";  mso-padding-alt:0cm 5.4pt 0cm 5.4pt;  mso-para-margin:0cm;  mso-para-margin-bottom:.0001pt;  mso-pagination:widow-orphan;  font-size:10.0pt;  font-family:"Calibri","sans-serif";  mso-bidi-font-family:"Times New Roman";  mso-fareast-language:EN-US;} &lt;/style&gt;&lt;![endif]--&gt; &lt;br /&gt;&lt;h2 style="text-align: center;"&gt;&lt;span style="font-weight: normal;"&gt;&lt;b&gt;Treuil en Essonne à&amp;nbsp; Mérobert&lt;/b&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;/h2&gt;&lt;br /&gt;Le CDVL91 a tout mis en œuvre pour obtenir les différentes autorisations permettant&amp;nbsp; d'ouvrir l'espace de Mérobert au treuillage. Les premiers vols eurent lieu en Septembre 2016.&lt;br /&gt;Mérobert deviendra (en cours) un site officiel pour la FFVL .&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="https://4.bp.blogspot.com/-yFGh0ol3ZQs/WHzkGttQK0I/AAAAAAAAA1g/45ofl1GvCR0XOF5FScVFAJ32Kl9wPHRCACLcB/s1600/site%2BMerobert%2BEssonne.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="640" src="https://4.bp.blogspot.com/-yFGh0ol3ZQs/WHzkGttQK0I/AAAAAAAAA1g/45ofl1GvCR0XOF5FScVFAJ32Kl9wPHRCACLcB/s640/site%2BMerobert%2BEssonne.jpg" width="478" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div align="center" style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div align="center" style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div align="center" style="text-align: center;"&gt;une vidéo de quelques minutes nous fait participer au départ en cross de:&lt;br /&gt;&amp;nbsp;&lt;b&gt;Martin Morlet et Julien Burnod&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/b&gt;le 9 octobre 2016 &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align="center" style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div align="center" style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/5rEM24l4nZQ/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/5rEM24l4nZQ?feature=player_embedded" width="320"&gt;&lt;/iframe&gt;&amp;nbsp;&lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: left;"&gt;" &lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: left;"&gt;&lt;img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAmoAAAEqCAIAAAAqAOvZAAAgAElEQVR4nO2d25WrOrNG/5yckJMhFmdCIIcxVhL7oc+DDdRVUmG7fek5X1YvQFKpJPRRAkv/+wEAAIAi/3u1AQAAAJ8H8gkAAFAG+QQAACiDfAIAAJQZls95Op1O03x3gfN0Op1O58vSvXK5nMcuPGbDA+oCAAB/lVg+58lJ3BHJmSeTS0kR6xfLq68yfcWa/TT5vFphCxWmqEK1zTLtjac8OwAAwAMI5XMd7+9VGCefJUbl82rtNE1Gim7/eV4Qa4gLFUfFn4HNvlKoJwDA2xLJ5zydTudpOiv9lBGbD6dmq13TxQdiezKbbyjWSvfyy5TVqwnLok/oVCN1uUziqMoii12V4l2dMG//qoNxElt1ZpcBAN4XL5+rapkhfBMNeXwb/r18zj/6qBCd/XB40BrSuUwaOChFui4iNNystsWJTIbiwi1jXbpNm+TFu1kAgHfHyWc47fizD+l6aJdHm/KphGL9T3jQW9K+bMWfSOegd/lcAikL67L9MaKeoSpHNsaZMXELAPD2WPlM3xpGQrmrQ08+/Xcxa3ybfyujwuD+JzXN6DP9DEpn3oikl8t5NaYtbdcc4/naEflk4hYA4AMw8im/V9Va9cjoU5aWa1EcfaakV3n93OpgX4I25POqn9PUVk/3AXD53ScTtwAAn4CWTzd27wfa7z7twea7z5/lcnbvPveDK+G7T3+ZNFUVln95u+YXh9qJfK6BajQpK/M11sVf3gY226sBAOCNUfKpph2vbIrQ/lpVHjufz2ZqVAawt2SXebaf1IqDP1ti/+WtvUxaWv/d53bZ9VNjG+z64FHWJZB7jSnDWWJsXoIGAACAd+TXVx16B76pLgAA8ApK8vkts4rfVBcAAHgFQ/J5m5b8injtm+oCAACvgh1XAAAAyiCfAAAAZZBPAACAMsgnAABAmd+Sz2hFAXGu+h2sS/KRP5kcrPgB/zwk7Q39491f4wGWP7TER9tT6rHL5fywzv37jm3yyKp9JW/WXiDoLNo33G7iJkiXhZ2neLi4Xz6znH+NY2PAy+VzwOz+Ir9PYrDWd4++ewUfIp/xc6LTymKPPVjLMNlwd9rXAbmnA/RMv18+xXolZjXuwPr4qeU27r1oDBnreC+7EyHFy+cxWbrnJnhE9Plivlc+X/Zk8lvyOVpiRT7Dtbvu8eML5FM0/F194MnyKUXFbfCgL7g92cymwNfv0fC70x7wONryKW4c8TS331TXle7sMnVRe/vkYaGty0RsPE2iiD1iDnfhDh9IRaAslx08Xxa1pILZ5nOs+plJB2pR8c88ncQm32KxwyytX0swqmPgscwP06xtWDcYMOY+0DnaPmlJmCpo7vCPextrmvQAbY81+tI2+AeWT7Zx21kJlJXzUEWUMyKJi7uiue9cBxqsWrcp23Zqe027msrMU1fdZdHD40PgjQwZXw72z7hvX1Zj0+Kyy4bGxuTKlrsSa8c6/JCdL6Uffa63gVx9Nu5IYnTw24i45MHZ5mXyMXMvOnzMtJeud5TsAXl/3a3YTkelpNUPTTpQi6J/Zr2ufuPe089EHbNlQaEPpR+kDWoWcyv94c4RVXAtYlNV5fNwY83q+HZoqC+lHdU3bqlbagu7FdHOsK4JjYz7TfJap121blPG+Fs4MN5p6y7eLXGW497I+JDeRbnZo/0z69sDXgovGx8bO3MS4dnjHd5Vp136Cxh79ym3lZYuiJ9P/TAUJVeFXl3Wuix+oFROjJ89r+X7R87zZcm7yPZEuT0ouFKy6ocXH6hF0T+mP9mBJE47YLY4HvvQPBMb1TDj+OOdo02VlnQ6Rl8+jzbWGgmrMXZN1utLAx1VeH68W/7YLAcrsp5sKFBs5M+t0+1Ha1VrN2WAuCXG5VNVzQ3J8V0zNj7E3ggpymehb4dOspcVx0aZtalTdPYBHX6w9BfQmbzdWC7RttKD8hkmjwptXJaPZU7vo0rEt1DS5263hbxNOqUYvYkeQaq1KPqnI59x2gGz9QNfUJeyfD7WOQ35dKkeJp/txlIDhH1w6PWlgY4q5bOV1YB8NioiLghno9s9IfJirWrtpoxKyeSjJ5976fHTWXRPFMeHNgfkc7Bvh36yl5XGRumS6DnGnX1Ahx8v/bcZk085NB+IPsPkvtDmZelY5u2NBo3KM87txtjujriUhnzmt02hFr6kthvb8hmnHTDbBCH3R58Pdk4un52OcYd8dhrrmuiaWj04px6oPYwnw15Q8Z58Vsf3lcHo01x7PPrs2an7ftZy/ZO2BtkdNzI+NOLkTN/H5XO0bzvujT5NVu2bObe21uHrpf8Wdfmcg/ehBfnckvtC25eZ7itGJXGj7apgL5WPp9v5OM+f9ZFJtp8rpVV9b9KBWhT9I4+oiaZG2gGz7QjifFiSz8c7J3sCiFKl+cfyebSxhFqoiCX3gHu8jjqqO1jrltLCkYooL9hcYntCfwkbxqvWbcrQ49q+23WdB3GZ3OWU3nED40M+uASe2J+4Rvpn1rcPymdhbIwHGemucAg61uGdne3SX8Ho5O28v12fwufo22CRPGAHyaNCm5eJ09PlcjZd+XZ8cQf11Iw9KOYCJnvLujtJlZJWPzPpQC0q/pmn207lqoKdtH2zjSO8D2vy+XDniCrYfhekipo7l8+DjaVqmv3d6EuBk5fLOfisup+Vbl/fLs22WM/GI0J0N4X3nbJhsGoDTenNUFnE5q0p1KH9Ul/T7I7rjw+JN6IE+nlnL67RP11xqS76yehIZcfHRlmyD67js4c6fDYv2Cj912HRvm8heggHgL9LHoXCQ0A+vwXkEwB2mm9f4REgn98C8gkA8IsgnwAAAGWQTwAAgDLIJwAAQBnkEwAAoMxT5XP/kY79fPr6Q5/yly5jH2I//IuzQobNHxG+gDcxAwDg23iIfJqFRZKfPu8c/kj0Dvm8Z5WKL5DPcKG+91i5AwDgE3m0fHYO3gnRZxVvBr8GAwB4AE4+twnXbZuFeWpubWqWUbqO1+Ki2//Ucld21aV8hS2VYnDL4uVyDvYWjpe8kmtEpZvNxhmGNnRW2BqtcjjvnSxtFZgdeOxqT9hYxcw7lgMA/Am0fIYrGdu1kuXyg34rhe0CM0m4X+mWcm4t2pwso9xaEjpfXztPu1xam812F8gOSmkW166yq/M062NtszsLT0eNNZ55x3IAgL+Ckk8tHOs4q5b+7u263JZPNeCqo3KZa7kktJ5qlEvv+3y6afK07f0KwgzTumi5qlc5qFBlu++49k35HM+8YzkAwJ/ByaeeXkx3VlEziyX5VPipw+b2CFKTwnzaafK0B+XT2xDKZ63K2c4fdouCKd5U9oB8jmfesRwA4M9QjD5lLHUs+mx/T+MmTttSmGfSlE+f9ph8BjZE8lmscvhxz9tEn03LAQD+DGPvPkP51G8ix959mveoW3zmXrwpk8I3eS6ftBb+raRL25fPMENvg5erepXDOoc2hGYffPc5lnnHcgCAv8Lgl7f7ICm+Ig13XW7Lp8pA78mczwfu35GObVm8hHsLx5/Ctjab7WQY2uDl81CVpZsbH+tmZgce289GjXUo83gvaACAP0Hjd5+MiQAAADFGPufJzd0CAACAwbz7XMQP63mtBQAAEMOOKwAAAGWQTwAAgDLIJwAAQBnkEwAAoMxD5LO7so7j+ivDB3/YWzfjeUXfWcFo4aF7ryxwwJO/7/wXNvfn84D+yYf5f5O/cN+N1tH/cCX45LZ3s1Qd+qRflL6PfN5dwTvlM15PcZznyefdah8sI3VPJi/kKQ8+Y5j+aVY46Xrm5b8If6HrPp97O/9HyOedPeQe+bT3RnjwSGFP5n3k824eFn1+nXyWS3xb3kcD3seSQT7O4G/iI+67l8nntlhfcsyv7hau6Jbtth0uR7ci9vJY93lOl9Pz+bh16Q7mE9YxtDLywHiGjVKWy+hW1csl3xtcL693yJMdV+yrA3b9rAo6TXO/Y6Q7pqXR53C7Zyvg+5q2uutoswat2VizMfrl9VCeSfKOn40l3aYv3i/zdBILXl6b3V5aqJ03eHi9SeuHH7MetVgoJu6K1p7ungo/edpxs/vu7TSuq2Dz3s+s9Xe6KXq8EdtDyrhJysO21p0eoruly7M3nq8E8nmZVXS/HVotk0q5tVm48vh6P+oWFJ1vYHX4uEuF+Ugz7sxHeNk6remBtmE2SV7Kckm2qnb5dNbHb6w8PGJw18hBP6s0IsNmx6jKZ8Eeb1hY02Z3DZPIy1RFfD6dafc902KeNnn/BpSWtJu+fr/Mkxqz/BrUhdopLwWzze2eo/zwY06KNFlXHOyfjjTtmNl99zYbN6hg897vWruVKIsuNGJ7dB02Sbsg7KitHiK7ZZxnY3jcCSZv1fPJzYztTg63y573Ha70M4Z5nNX+ssOH/r+8u8I7wecjzLg3H+kns5d1ywNxhmmSRimRtWE+cW2H5bPpybaRBT+HibodoyifFXti+bQ1bXbXMIm5KOqRUdMkdbhmWsgzSj5wA6byOeaQZk9Wnpb/uSWveCxwUyF5LHDzukzp+sd4VyzIp72sUuth96atoyvYGay61gb+fGR1RscBlcZl2OshWrldpu3hcSeWT9dDtKzvOPncs8/kUyGNjmuUDvo+n6ZnCvmoWrr4oOWBLMMoSbOUpMcE+TxAPlNPto18tHw6M4ryWWj3eLBzNW121zCJyTeSiKZ8RnYV8gyr1b8BQ/ksOSTvyT35rHjMXvUA52yqIsVlsCveIZ/FWo+5N2kdW8H2vX9IPh9ZndFxwLpYZ9jrIQX5bI0AiXzeSlGPDFpGj0afSR/7KQ3H6YNk3tiVO0rb5BybeyAdv4IkzVK6keIDo8/ck20jHyyf8U3xa9FnVNNu93BJHh59+mOtPKPkAzdgJp+2dgfvl6Z8vjr6vOmKF5fUQ4+Qz0O17rl3sIJthzw9+hyuTtOkmD3Dx0WfzQ6fyecq6LfEkXzOk429lktnt22R5ufnJ9rmWjzP7Hm6g3E+0ow78pHH2vLpPZBm6JK0S+nKp6qX9Lmxx8hn0ZN9Iwf9HFWs2zFSgxMJrLW7b1Zf02Z3DZOEzTEun6G5xTxt8v4NGMnnuEO690tTPiu1U16y44xN7ho9HQrnSQVCWVcM5bPR1QNj86GyaXbBvWF39RXMW3O8prYxxxqxXZ1xk8IUkXzGtvXNGBgBGvKZ/T1v4ey+Xbao0nY62W1bZmC3uZYnt++7VGQ+TSfTJ2Q+kRlH8tHH7ADX80CUYZSkWUrSY4J8ls7e4Ldab1MKhz0Zfia3+3nfyTwpRdTs5D4ATPwWZZXLZ6Hdm2lVTce6q0yyl9eM+3XThJkeyDNIPu5nc7uOO6TRSbryWaud9od60lelB42eyqca6eI6tltQluIfirK6DJpdcG9keVDB5mCVWevvdFP0eCO2h5Rxk8IUxpNZD5mn0+l8Tt/Qdcbzject2uf6ZDl50tlfkw98FrQ7vAL63UdwpzqtPFY+58ftto18wj3Q7vD7hBPy8H68o3w+crdt5BPugXYHgIR3lE8AAIC/AfIJAABQBvkEAAAog3wCAACU+T75tD8w4gMS0DS/KnqXbyc/99Onz7UcoMbT5DNYyuF30Hfv3T+g0TmbrGJ9vv5I93ihj3Od+Llw9KNlZXywbsrqvOQztT13na5W/9/XK+TzCQQrXgF8OV8dfT4+50g+hw6+AP3ksBmvaqGusZ7blCSUT3HQrEkl9rcbNBP5dHyuCH2u5QA1nHxGS0mNLsg0T2ID1fDgT7wmWaP0qKB50ufV7dpYwEwFWDflKJjnR9Y1sTxqj4WLqMUl+iX3qp4xtlkxXJ0n7LXLWepG3y1srhZmPZNrUNAisbvDfji4oF1SonVvuryn3368Wco8ncKtd4/cNaF/Xa0L+fQ9KXqJOzi+NGB7MUWAbyRf83b7Uw6w48sBxwdFXq2Fek3p8eqv54vd5EVfE5Wll6u8rfE5at6yLeuqymrtLp7YEJaoAsTjntmNjRXMaqFZLzz6uyuf0fqXycORc294bVh4mLxtZtO942t5t0uxT3NbPgfuGu/fqNZH8kk8Gd/n68G4j2UNgXzC3yKQT/nmsLYDsLpxooNu4lCNQ/3toIPn32j94G008WXNwe64g+bF8ikD7S3RmlGYoSwx9oHXwpJnfF0Cm31+2p5EScN83AxALJ+xe1P5NP0wb1B3ZW6Hcm8efW5JEmlq7PF7S3L0rrEp4lqP5zOwxfpPeJ8HB7t3FvIJfwv/7lMs+r+Oo8HIeFw+FT6+sydzkUi+sJE3eVDW7HfHHTUvlU839kr5dBmaEhtVOOoZ0U6eVvQZa3wmxVvt3AR2Lp/evZmhth/mreOulCU23FuQz14pLsnRu8YZGda6kE/Uc8IrY/XN5NM3BPIJf47806FVnR4cfTbuLDkMdWOs5XI+nc+BgHZGk6twzuHuuJ0bP5fPm5VyBPEiZA38+WnoTB5KDkaf7sjAu8/dIp04jWRbZQ1Uq3Gtt7s/LPvnqbYdNfnMS3l29DmuamFn6/Scpq8OGIx8wp9By6eco1I3W/PVzpaqK596Eizaf1jOF+YFKW3PZCMr6/rwLAoaNC9gt/j2jH9LsR2PMkxD6NiPRc/saN8ok+SImHxpInNry6fsH+JQEq4690bXhv0wc2ZwZegD597wZNjb26U88q6Rmea1Hs8n7Dl5ze3BuI+F7Yh8wp/DRZ9iZkZP6dmDYjIr3JA2e1aVBdjdR/dzYltpX5Ac9N17NxNOBmVZARk1z6uIHZyyv1WGeYmhpJc8Y5ATd4E9J6+5YT3dbJ2eTu1ER0k9or2akwvnVvLkyshzzr2BA5dw+/FmKfMUb7175K6Rmba68XA+cc+J3BIfTPqYN8nLZ3fSAuCz+b7ffQL8LsgEwJ8E+QS4D+QT4E+CfALcB/IJ8CdBPgEAAMognwAAAGWQTwAAgDLIJwAAQBnkEwAAoAzyCQAAUAb5BAAAKIN8AgAAlEE+AQAAyiCfAAAAZZBPAACAMsgnAABAGeQTAACgDPIJAABQBvkEAAAog3wCAACUQT4BAADKIJ8AAABlkE8AAIAyyCcAAEAZ5BMAAKAM8umZp9P5srzaipQD5t1Tozf3xgeBJw/zy31+gOVyPk3z07KHj8DI5zydFM0O8g496Bk2vPkw907yuVzOb+Wr3Z536JyG1/WrhjMOeOwFrn10n7+n316r/4b9C36dQD73TtHpZO/Qg5DPJyV5SNoX8g6d0/AyT87TiCtGPTaW22N5o+jzVv037F/w6zTlU/WRPTCdZvXf0zT/zNPpPE3n9eRyOZv4VfW2a8+ep9PewZfLeb3WFORC4v2m0DaMlvsTX6mcsJXhjGmnNX4Ik4uDe1V8niarLdE0jdUiSRKbtNf7sp5eE7Sdtp5dLufTdFnPi3ErLy7MMGwv69VGQ+xdK+tDQ+0oU5yn6SzNG8snSN7rV0HZ3R6yt9f1LowyFXp3p8dMbt7O7jhwzIftDvyr/XatfpbwYDO1+wO8KU353AVOxKHhbI+UQhmzbn+nw+Ke6dYrXUGJeSphpVyZj89yvyw0ppnWPRKEThN3+PYk6yzPXLofb1oSJ2m6d572u1fV1/whi5PDULOy7dbc/sz6SRBJhNVXbSdFo9aO4mlu/zvtYOFBl7zTr9KWa/YQJXaBcvxIvbvTYya3yM7uOJDaEPaEsQ78m/12q36Y8GAztfsDvC/td5++2/0YqZNPWIs+/SPPpDK29eYtxvIF7f91z2b7NcVyZSddFjusb/3eG9NMawMMl9zN+SzLElueunSoFnGSlnuDZyf1jCOz94NUKnt5caH9ncesXvJQDOrtqAexW5KwmdKDLvmoWw71EO0jI4SqR97hMZ1bZGd/HEhtsAcLHfj3+m1W/WiwGW+mzm0C70sefcpGNap6cl1PP+HJsS4ae/ZLbrIpZTQoaM0nGEP3fEvlykkW11nlXRQak6e18umSR0oQW96Xz5Yl+egTu3c1OB+GZGF70u4wlBcX2l+Qz7D6mRjU2lF7zzfIfjQ8GCYvtEK9h6TyKdXzfo8ZLfaN0h0HUrfbg4UO/Gv9VlY/Sniwmfq3CbwpjclbIVjx+HV/9HkTznkK8nF2hSeORZ8mA3OwO2rnaY18+uTRw+XR6LNlSTr6NGrUHobirtEbhgZHAjX9Vc8nmLKLO2cveXjgCdFnw55DPSSTT6ueQQ0LHlO5hWFSP/oMbQgOFjrwb/XbvPp3R58I5mfSffe5R4VCF5r323LRL362biok08ZosiP6grRVCvtQO1SuLKQhn6Ex7bT2VomdZg0KLbcuLdYidnhokjA+yDAahlSG+TB0oLispvGgmVurDKq3o22R0zrxHnaw7kEtn223HOshsXxqx93psSi4snZ2x4HQhvGeUGjKh/dbXf0w4fFmavQHeF/6X96uDSumGKbL9X3CbVYkntiy8zNidmayIqO00Rak515O5urdhlK5spDGI3RU61ZaO9BHycVBPcOnD5qstkTTZX8IbtUiSRKbtJ05n9PJPWn3NBlJSKP8vLjE/qC9ssfzIPl+qeoYo+0oOuN29slf3q722GG+2EOSsMZ0i3s85nPzdg6MA3GnbR9sd+Df6bem+lnCA80UFgefAKsOwUojyP/T3OmXV7k1nF19k9weym84+I2rD68D+YQV5HNnVr/PKLvlzuRQgX4LLwL5hBWGoY1lEQsJ1N9F3ZkcStBv4UUgnwAAAGWQTwAAgDLIJwAAQBnkEwAAoAzyCQAAUAb5BAAAKIN8AgAAlEE+AQAAyiCfAAAAZZBPAACAMsgnAABAGeQTAACgDPIJAABQBvkEAAAog3wCAACUQT4BAADKIJ8AAABlkE8AAIAyyCcAAEAZ5BMAAKAM8gkAAFAG+QQAACij5HOeTp7zZXmVcQAAAO9JHH3OE6oJAACQMiaf83Q6T9P5dDpN88/Pz3I5r7HpNMuLfMC6H7xduVzOKhUAAMDnMSyf+wFxcp5WKVwuZ39UHJTnAQAAPpzx6HP9/7LsJzZRXC5nHVIuyyLE9Se4AgAA4GOpy6eau11nasOXpe5LJMJPAAD4DuryKWPKPPqMcgEAAPgS7pPP/Z2offe5xqQyHVoKAABfwpHJW/E17WS0tPE57mm6LAtf3gIAwDfAqkMAAABlkE8AAIAyyCcAAEAZ5BMAAKAM8gkAAFAG+QQAACiDfAIAAJTR8snCtE1uqxWuP4E1/9XESy41k5QNaJfFsk8AAM9jRD7l0brA3pf6yVQMMpvGdPaQiaSru+1M25w0uSvrls96vFPusBO2C8Wqx3u+4UEAgC/l6fI5T/v18u/3oFIdtYGM+29wtRORTpKef9LkwSJR05zYEDDqhFu2Uoz3NaTYnA4A/haBfF7WKGJbt1Yu0bevyzdPp/PlMumAw67JF6lnmPBHhS+3NN1turOs4m26G1Wb41Q/Pr/TNJv/qqV9Vwc46fI5yKoFvtKVahg7TbqsLZ/NBmGM9eG4E0JRXqVXSzCzxgDw9Xj59DFEEn3OkxanaMAMY884YbQLd3eb7jirKBIaq1orfmpEn7tpW4a96FNVzfgq3Hs82evGZ7Xn4+UzzG3MCXFovObsVkVGPgHgu2lM3m5jYEM+2wHHcjnLqCxQhD1huAt3d5vuMKtwm+5u1bqbe7cmb+WjgYn8khzseeGfcO9xnTwP9qTPY/mU72+XUSfIbKXNIjhGPgHgL/FM+UzUM0vY3YU7viCWT8X5sozJp0slab77vMlmEPklOZjzoer9pMlT+VQyF03eCi9mMwqBEwL11NP0yCcA/DGeKJ+ZevZDxjD6zC4Is4ojpZ58tof8pnxehVNMcNbkU/kn+5RnQD61zIXyKR0y6gSvnqb2vPsEgL/GnfIp5xv9AJvEU2HC8L1gJp/ygsAG88p0e/fZrlqUylSo9eXtNXBLwrGwCkGYuDs5eLHZf/dp8nHyGbur6wRbF1t1YxBf3gLAH2BEPtf5Pvn16/Xb0tP5bGYCtym9Of/BSphQThxuu3B72fUXRFmpWch9m+5O1YJUUik68plF40kO5skgetFqKxUYcDP1FhzafKLoU1ZRvuRsOMFkq+fQ9xle/130brH/AwDgs7lj0b7WSNj8qegDh9BvGI0ftZbEo/L5nWwBAD6bJ8nncxI+NSsAAIBhkE8AAIAy7LgCAABQBvkEAAAog3wCAACUQT4BAADKIJ8AAABlkE8AAIAyyCcAAEAZ5BMAAKAM8gkAAFAG+QQAACiDfAIAAJRBPgEAAMognwAAAGWQTwAAgDLIJwAAQBnkEwAAoAzyCQAAUAb5BAAAKIN8AgAAlEE+AQAAyiCfAAAAZQblc55O58vSumK5nE+nU++qu4oAAAB4E4x8ztNJsQpaT9uWy/le8ft1+bwK/jQrE3zdb88FJ3WtOIjmAwD8Qbx8SjmYp5tm9LRtu/A4vymf83Q6nc6X+XK28mkqIR8L9r/F0Qc8NwAAwOfRls9NFsVxH42JoO12xF+zXM6n6bIe3svY0k6Tlc95Op0vl2nPZy9nEzlX0DwZK64iGWv7ouXT/Nf5Yz2vr7tdMmItAAB8C/3o83xZxHFxgYw45d9hxHaTssUdlLk5+dQK7WaSY2NuRwfiQqOXau7Wa952tXbSLp8dawEA4Hsovvtcll0IrPjJOFNp0ipm29HomJcZdUD+Z4sCE2PWWnRVy4ab8yQfB1R5UlEz+WxbCwAAX0Rn8tYfF9OlWl5N8LdyU49nyGdmzPAbyYayBTlsh5BPAIA/T1E+s0nal0SfzRnj84CANgy45RcqZf7uE/kEAPgj3CGfcoLTKpnU0u01p5XP/rvPcfnck6+Zlt99Ru9s3ZzwNOsr45AU+QQA+HLKk7fig9JJzdjab1iDL2+tfMrspsvlXJ689cbc8+Vt/BtP/11xeCHyCQDwl2DRPgAAgDLIJwAAQBnkEwAAoAzyCQAAUAb5BAAAKIN8AgAAlEE+AYOqGeMAAAr6SURBVAAAyiCfb4bfhfR5qQAA4ChKPt3CP2oFoRZvu+1le1/rcH/sQs49z3Tc4rM4tm/qA3ZbjWGrcACABB192kWHPm7FHC0kdhk+Vxe/P3alpLs9897uZatwAICcYMMyLT9qJVu3TN003SYNm/tpy+yfuwO2tj/c7FqQ7Y89sOu1UM9GfdXqvma3cL8YYFTUduw8TdtKv7vbk1SqhvpsuHqizTP3XrbKfssJAABfiH33meyBHW1MrRZ5j1aB99HJ03fAbkxjBsv5BvtjD+56vauntjJU42y3cPd4Em0nrh4c1oXy1YK6eSwY2ZbJZ9ux7a3CO04AAPhC3KdDej32deyONqaOFkmPdyuL///IHbD1xp/+0kR4/f7YQyu/L2J1e6M8sgI/Wj79ivniqFIdsUeqj/+kUVEqXbqzLY0+Y88ObRXecQIAwBfiv7yNhulwY+pIacw4bEf0AXG6bwfsMPYZ+v4p2uAzkc/F7A2zm9yevO3Jp1V/v59aJJ/5M0NoW1E+tXcy+Ww7AQDgCwl+uHIdYK2O+FnGZ0SfYUHr3wM7YMfzp8mI7l7ujcmnVc+NePp0WD5D6etGn4Pf7rQ3Xg3zCZWys8U53xMBwF8h+t3nLZDQY6ffmDpUmnCv7J8fc5X7z6N2wLZa2XwTF72n7cunU5XGu95x+bRvkpvvPvVzjU2lKu9sk0bGTRm5R787tW9bO04AAPhC4mUTvOqI7zvXXbIzpel9eduO7XxB8mue7g7YCv9G1E6JRp/5dgU+CG+PTd6uxfsJ3OmyLPqY+vLWRPQuVdM2Mc06dSZvw6qF7dtyAgDAF/L3Vh0an/AMeOEvNfmkFQDgjfhr8vneKxVY9lB36PMnAAD4Lf6afH4Uy7Lsk6K8UAQAeCOQTwAAgDLIJwAAQBnkEwAAoAzyCQAAUKYun9ef/fERaIZaaH6Ah3wLXMjkrh/uPJiqr36Pe7wk1nJK2+SBrfBODQrwlwg2LFOLDNjr818f/p3lZvqbc7W9pNPeKZ/X5A+XT7lFjCyoeUpX2685GJqY+OqQASOrAI/xGPnMs4hWnoq34nmqqQBwnNZ+n/zWMKC9I9t44ngR2jK3COc58qm3UVHqlZ+SSxYHO9qNcsyAhy0u8Qr53EE+AT6A5nbZVh/Egnr7Qudmx2y1CqsQYJdWllneQ3u4lOXi9qlODqbJtcFunXlbnVZsGq0C6LZd2VbmK+zandbI1WxbqK/dKOsa/cG6io1TsoLzdJomteyDF4SGr44b0BSeuETvh+YilB1vOz0LCt1vFnEiOpgs91huUAB4NG35jKeW4rXCg+079IBn0qoylYCIEcKtch7s9xKthq6OjR1sGxkSaIIZ4MzZVvTpVmhv+mS7bNsFJqhRUGywEH8riWhg25jRKWHf1TQl742HCe+rgwa05VOc3f8M/dDse21vW/kMq5ltGxDO6Dr5PNCgAPBoBuRzG090MJivGr8N6usfYVpZZpDJfqVJ4FRaHPClpKOPO9g2UrOGE37WLdvu2yVVk5zTbBzf88n6txzZoxglqMxYff0Tkn8W8qd8z7h1gWiCse2rgwbYd5+6hdTj3s2C2A9zawO+prftkbiad8nnkQYFgEczHH2G32Qko/w+Zo58z9GTCjM+2RFOyqgvpSafuZEhkUCKiTqfh3Tv+vftHeE53yg1kU+hnkflM6+vqNpNc6KpBHtqs8oIQaSeHV8dNKA3eSvKVDPm1g7buZQnS/IZV/NJ8lnswABwB8PvPsMRMBvl5+k6ZtoZvZCD0ef+grBlYUk+R8YbN3tqHwVUWKlzNGGJrl4+JsfyKdXzoHw26uumkrcN01qn1vynScbF+vygrw4a0JVPl3/sh8dFn3E1nyOfCCbAL9KSz1m8gDMTX7ePCtNRft4+gknTyjLbUrFcki24r6XokdSUMi6fbSM3nAF2IlqFlz1JUGNh9rASymcoxYFDbbm7Vc36Gj27RTZevfSp/YBW9lDSCr4aN6Apn7IU/VrC+UF2Fdf3Dsuncv64fLq2O9CgAPBoSr/7FGevOzOno3wsLCqtPDMyUbmlnnWmLvpTpRTkM0vuhmN5VRhT3c5NwVAu0t5KNTOfzVlx9W4xnmS3DrXlThcRteaN4sLB/VmqcSpMGr8D7vnqoAFuBjN4++lPeD8IH/q+V5y8jaq5X3PLXr8hFgfldLP4yLbaoADwaD570b65sa7LN8OHIQAAL+aj5fOvqicAALyaT5XP9I0aAADA8/lU+QQAAHghyCcAAEAZ5BMAAKAM8gkAAFAG+QQAACiDfAIAAJRBPgEAAMognwAAAGWQTwAAgDKPkk+zzQYAAMA34+RT7C8xroZ+v6kCdyV+Y5JdYgAA4AsINiyTWyIl436+BxXcMPugHfQWi+IDALwnWj61Yt7+J6Koba9CFZ7a/28Hzme5JbEMxObpevZ0vix2799i5Pue2C3FlnV71PNZB6RiN8d1z+zzNJ2v+zgSvAIAvClKPuOgctm23d2iKHHhrhO3g2KH6TWW3VV5/UtGuVtmLqtnVfpXuOmirIbeDtlvkDzNtupEnwAA78mAfKrw8zqa7xeqc6fTaZpFBHu7TMa0t7/loTUzn9VTa/5LXOPpLQYXlb56RgX711hfNAHyCQDwnjj5dJO3JpoM5FMr7l3y+ekhZ8JNBbV8Xh81kE8AgE8k+HTIKJ2JNI18KsmdL2sQ2Zq81UfM5K3K6oNRb5HFlPXI5C3yCQDw9oz8cGU9tH7rsx/aNfGWYprlh0LtT4ecfEZZfTDek81Ph3YZFfJ5PfulMTkAwAfzjFWHtm+NGj99+ZMQSwIAfAtPkM89giRs0iCfAADfAmveAgAAlEE+AQAAyiCfAAAAZZBPAACAMsgnAABAGeQTAACgjJbPeAk+fn5Sx+64Eh15FqbNCk0ofnOULzz8up/fVEvmh0IA8Dx68gnH+D2x7JR+xBC98pHlblE6nAHyCQDvQ08+7eq2OiQx23PO0+m6V2Ww4l+e6isJVEsM5psHvE+2RQ2naTJe6qbS5Z8vi9mp27aFtmjPQ8qnv0baNmaJOBWY0K24XAMyTrVvkjqH1wMAPJxh+fSbrPjtOfdpwnW5vpFUX0lDPsWp2yEhV7tECWXQm6HmqVxxF2lFuGD9MfkULdixZD+1/7VfM096A7eo4pHZNpVZNtltRQsA8HBG5TM+Y96SuZFrKNVX0pBPrTDLsphXjrcHkSDm66XyJmQ7b1//czz6nG0+qSVrgwvjTQYqnSsutMWmEhcltgMAPJj75NOM2YPy+bUhp2BYPtvX/iTyGafyNmR7nz1IPq82DEV54gMmGX2KV7TD8ulTIZ8A8OvcOXmrt+cMd6/spvpKhidv7bPJPBuJ3adqu6m8DbIxW3uLanNlQn9NOHmbWRJNpW6V83WK1do/k5lURjOZvAWA5+PlU8+sDn46dN2eMxq5+qm+Eu/JwU+HzucpnLwdSeVtSGbO3Xdd+isbldBdE+1a2rDEfuajNjGNMncVd58CuVQuzg4qBQDwUFg2AQAAoAzyCQAAUAb5BAAAKIN8AgAAlEE+AQAAyiCfAAAAZZBPAACAMsgnAABAGeQTAACgDPIJAABQBvkEAAAog3wCAACUQT4BAADKIJ8AAABlkE8AAIAyyCcAAEAZ5BMAAKCMks///vvv379//wcAAACCf//+/ffff6l8XhX06ZINAADwUXhxZPIWAACgDPIJAABQBvkEAAAog3wCAACUQT4BAADKIJ8AAABl/h+4RskO/SZItQAAAABJRU5ErkJggg==" /&gt;Parti à la découverte de la plateforme de treuil de Mérobert le 9 octobre 2016 avec Julien, nous serons gratifiés de bien belles conditions.&lt;br /&gt;Malgré quelques aléas habituels du treuil qui se sont concrétisés mon tour venu, nous reviendrons en stop le sourire aux lèvre ! Merci au CDVL91 et ses clubs pour leur accueil.&lt;br /&gt;&lt;br /&gt;Retrouvez tous les records de plaine sur sites.google.com/site/crossdeplaine/home&lt;br /&gt;&lt;br /&gt;Trace:&lt;br /&gt;http://parapente.ffvl.fr/cfd/liste/20...&lt;br /&gt;&lt;br /&gt;Plafond max: 1530m&lt;br /&gt;Vario max: +2,5m/s intégré sur 30s&lt;br /&gt;Dérive moyenne: 3 à 8km/h de NNW à NNE selon l'altitude&lt;br /&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Catégorie&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Sport &lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Licence&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Licence YouTube standard &lt;br /&gt;&amp;nbsp;&lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: left;"&gt;" &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: left;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: left;"&gt;Martin ouvre la voie par un premier vol&amp;nbsp; de 83,5 km ce jour là , &amp;nbsp; Julien de 48km &lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: left;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div align="center" style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;</content><link rel='replies' type='application/atom+xml' href='https://cdvl91-sites-activites-en-essonne.blogspot.com/feeds/5083336079889250346/comments/default' title='Publier les commentaires'/><link rel='replies' type='text/html' href='https://cdvl91-sites-activites-en-essonne.blogspot.com/2017/01/journee-de-treuil-merobert-oct-2016.html#comment-form' title='0 commentaires'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/posts/default/5083336079889250346'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/2681397194078422720/posts/default/5083336079889250346'/><link rel='alternate' type='text/html' href='https://cdvl91-sites-activites-en-essonne.blogspot.com/2017/01/journee-de-treuil-merobert-oct-2016.html' title='Journée de treuil à Mérobert   oct 2016'/><author><name>robert le valentinois</name><uri>https://www.blogger.com/profile/12356892430540790817</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author><media:thumbnail xmlns:media='http://search.yahoo.com/mrss/' url='https://4.bp.blogspot.com/-yFGh0ol3ZQs/WHzkGttQK0I/AAAAAAAAA1g/45ofl1GvCR0XOF5FScVFAJ32Kl9wPHRCACLcB/s72-c/site%2BMerobert%2BEssonne.jpg' height='72' width='72'/><thr:total>0</thr:total></entry></feed>

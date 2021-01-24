@@ -1,0 +1,21 @@
+---
+layout: content
+---
+{% include breadcrumb.html %}
+
+{{ content }}
+
+<h2>{{ page.list_title | default: "Articles :" }}</h2>
+
+<ul>
+  {% for cat in page.categories %}
+  {% for post in site.categories[cat] %}
+	<li>
+	  <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+	  {% if page.include_excerpt %}{{ post.excerpt }}{% endif %}
+	</li>
+  {% else %}
+	<p>Il n'y a pas d'articles dans cette catégorie.</p>
+  {% endfor %}
+  {% endfor %}
+</ul>

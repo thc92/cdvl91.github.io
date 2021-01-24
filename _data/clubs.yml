@@ -1,0 +1,41 @@
+- name: AS Sapeurs-Pompiers
+  president: Lionel Onofri
+
+- name: Les Piafs-MJC
+  president: Ralph Rodriguez
+  website:
+    url: http://piafs.mjcvillebon.org/
+    title: 'site du club-école "les Piafs-MJC de Villebon"'
+
+- name: Les Migrateurs
+  president: Yves Michel
+  website:
+    url: http://www.lespiafsmigrateurs.fr/
+    title: 'Site du club école "Les Migrateurs"'
+
+- name: PSUC
+  president: Thyerry Jean-Baptiste
+  website:
+    url: https://sites.google.com/site/cluddedeltaplane/
+    title: Site PSUC vol libre
+
+- name: AS Doisneau
+  president: Erick Vera
+
+- name: "Globe Trot'Air"
+  president: Hugues Mauras
+  website:
+    url: https://globetrotair91.jimdofree.com
+    title: "Site du club Globe Trot'air"
+
+- name: ASCEA-GR
+  president: Alain Bayle
+
+- name: VLCES
+  president: Philippe Labails
+
+- name: COSRL
+  president: Alain Robin
+
+- name: Les Ailes à Vent
+  president: Bertrand Gourcy

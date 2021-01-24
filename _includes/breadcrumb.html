@@ -1,0 +1,18 @@
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Accueil</a></li>
+
+    <!-- FIXME: category names in FR -->
+    {% if page.name == 'index.html' %}
+      {% for cat in page.categories %}
+        <li class="breadcrumb-item active">{{ cat }}</li>
+      {% endfor %}
+    {% else %}
+      {% for cat in page.categories %}
+        <li class="breadcrumb-item"><a href="/{{ cat }}">{{ cat }}</a></li>
+      {% endfor %}
+      <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+    {% endif %}
+
+  </ol>
+</nav>

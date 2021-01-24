@@ -1,0 +1,20 @@
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Nom</th>
+      <th scope="col">Président</th>
+      <th scope="col">Site internet</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for club in site.data.clubs %}
+    <tr>
+      <td>{{ club.name }}</td>
+      <td>{{ club.president }}</td>
+      <td>{% if club.website %}
+        <a href="{{ club.website.url }}">{{ club.website.title }}</a>
+      {% endif %}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

@@ -1,0 +1,15 @@
+# Site settings
+# accessible in the templates via {{ site.myvariable }}.
+title: CDVL91
+subtitle: Comité Départemental de Vol Libre de l'Essonne
+description: >-
+  CDVL91 Comité Départemental de Vol Libre de l'Essonne
+  Parapente, Deltaplane, Kite, Cerf-Volant, Boomerang
+url: "http://cdvl91.fr"
+
+# Build settings
+#plugins:
+#  - jekyll-feed
+exclude:
+  - README.md
+  - '*.xml'
