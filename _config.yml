@@ -12,7 +12,7 @@ url: "http://cdvl91.fr"
 #  - jekyll-feed
 permalink: /:categories/:year_:title:output_ext
 collections:
-  - future_events
+  - news
 exclude:
   - README.md
   - '*.xml'

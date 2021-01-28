@@ -1,0 +1,19 @@
+{% comment %}
+  Affiche les news dans des Bootstrap Cards.
+  Les news futures (filter==newer) sont affichées dans l'ordre
+{% endcomment %}
+
+{% if include.filter == "newer" %}
+{% assign posts = site.news | where_exp: "news", "news.date >= site.time" %}
+{% else %}
+{% assign posts = site.news | where_exp: "news", "news.date < site.time" | reverse | slice: 0, 4 %}
+{% endif %}
+
+{% for news in posts %}
+  <div class="card w-100 mb-3 border-2">
+    <div class="card-body{% if include.filter == "older" %} text-secondary{% endif %}">
+      <h5 class="card-title fw-bold">{{ news.title }}</h5>
+      <div class="card-text">{{ news.content }}</div>
+    </div>
+  </div>
+{% endfor %}

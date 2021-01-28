@@ -9,7 +9,9 @@ layout: content
     {% include latest-articles.html %}
   </div>
   <div class="col">
-    <h2 class="text-center">Évènements à venir</h2>
-    {% include future-events.html %}
+    <h2 class="text-center">Dernières nouvelles</h2>
+    {% include news.html filter="newer" %}
+    <h2 class="text-center text-secondary">Anciennes nouvelles</h2>
+    {% include news.html filter="older" %}
   </div>
 </div>

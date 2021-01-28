@@ -1,3 +1,9 @@
+/* navbar */
 .bg-ffvl-col {
   background-color: rgb(41, 67, 87);
+}
+
+/* index > news */
+div.card-text > p:last-child {
+  margin-bottom: 0;
 }
