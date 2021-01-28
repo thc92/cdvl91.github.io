@@ -1,0 +1,16 @@
+{% comment %}
+  Displays the 3 last articles in Bootstrap Cards.
+{% endcomment %}
+
+{% for post in site.posts limit: 3 %}
+  <div class="card w-100 mb-3 border-2">
+    {% if post.image %}
+      <img src="post.image" class="card-img-top" />
+    {% endif %}
+    <div class="card-body">
+      <h5 class="card-title fw-bold">{{ post.title | slice: 0, 40 }}</h5>
+      <p class="card-text mb-0">{{ post.excerpt | strip_html | slice: 0, 300 | append: "..." }}</p>
+      <p class="text-end fst-italic mb-0"><a href="{{ post.url }}" class="link-primary">Lire la suite ...</a></p>
+    </div>
+  </div>
+{% endfor %}

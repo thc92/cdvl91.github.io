@@ -10,6 +10,8 @@ url: "http://cdvl91.fr"
 # Build settings
 #plugins:
 #  - jekyll-feed
+permalink: /:categories/:year_:title:output_ext
+collections_dir: _collections
 exclude:
   - README.md
   - '*.xml'
