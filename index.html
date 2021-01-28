@@ -4,14 +4,17 @@ layout: content
 {% include carousel.html %}
 
 <div class="row mt-4 gx-5">
-  <div class="col">
-    <h2 class="text-center">Derniers articles</h2>
-    {% include latest-articles.html %}
-  </div>
-  <div class="col">
+  <div class="col-md">
     <h2 class="text-center">Dernières nouvelles</h2>
     {% include news.html filter="newer" %}
-    <h2 class="text-center text-secondary">Anciennes nouvelles</h2>
-    {% include news.html filter="older" %}
+
+    <div class="d-none d-sm-block">
+      <h2 class="text-center text-secondary">Anciennes nouvelles</h2>
+      {% include news.html filter="older" %}
+    </div>
+  </div>
+  <div class="col-md">
+    <h2 class="text-center">Derniers articles</h2>
+    {% include latest-articles.html %}
   </div>
 </div>
