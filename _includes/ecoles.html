@@ -1,0 +1,34 @@
+{% comment %}
+  Affiche les écoles dans un tableau.
+{% endcomment %}
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">École</th>
+      <th scope="col">Pratique</th>
+      <th scope="col">Contact</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for ecole in site.data.ecoles %}
+    <tr>
+      <td>{{ ecole.name }}<br/>{{ ecole.location.address }}<br/>{{ ecole.location.postal-code }}</td>
+      <td>{{ ecole.sports }}</td>
+      <td>
+        {% if ecole.website %}
+          <a href="{{ ecole.website.url }}">{{ ecole.website.title }}</a><br/>
+        {% endif %}
+        {% if ecole.manager.name %}
+          Directeur : {{ ecole.manager.name }}<br/>
+        {% endif %}
+        {% if ecole.manager.e-mail %}
+          <i class="fas fa-envelope-square"></i> {{ ecole.manager.e-mail }}<br/>
+        {% endif %}
+        {% if ecole.manager.tel %}
+          <i class="fas fa-phone-square-alt"></i> {{ ecole.manager.tel }}
+        {% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

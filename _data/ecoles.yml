@@ -1,0 +1,25 @@
+- name: Club-école Les Piafs
+  location:
+    address: MJC de Villebon-sur-Yvette
+    postal-code: 91140
+  sports: Parapente
+  website:
+    url: "http://piafs.mjcvillebon.org/?page_id=88#Ecole"
+    title: Site du Club-École Les Piafs
+  manager:
+    name: Didier Kalama
+    tel: 01 80 85 58 20
+    e-mail: 
+
+- name: Club-école des Migrateurs
+  location:
+    address: Centre sportif de Villebon-sur-Yvette
+    postal-code: 91140
+  sports: Parapente et aile-delta
+  website:
+    url: https://sites.google.com/site/lespiafsmigrateurs/ecole
+    title: Site du Club-École des Migrateurs
+  manager:
+    name: Didier Domergue (DTE)
+    tel: 06 52 54 52 71
+    e-mail: ecole@lespiafsmigrateurs.fr

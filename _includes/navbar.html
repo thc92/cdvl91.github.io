@@ -1,3 +1,4 @@
+{% assign pagename = page.name | split: "." | first %}
 <nav class="navbar navbar-expand-lg navbar-dark bg-ffvl-col">
   <div class="container-fluid">
 	<a class="navbar-brand" href="/">CDVL91</a>
@@ -7,13 +8,13 @@
 	<div class="collapse navbar-collapse" id="navbarSupportedContent">
 	  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 		<li class="nav-item">
-		  <a class="nav-link" href="/">Pratiquer</a>
+		  <a class="nav-link {% if pagename == 'pratiquer' %}active{% endif %}" href="/pratiquer.html">Pratiquer</a>
 		</li>
 		<li class="nav-item">
-		  <a class="nav-link {% if page.name == 'a-propos.md' %}active{% endif %}" href="/a-propos.html">À propos</a>
+		  <a class="nav-link {% if pagename == 'a-propos' %}active{% endif %}" href="/a-propos.html">À propos</a>
 		</li>
 		<li class="nav-item">
-		  <a class="nav-link {% if page.name == 'clubs.md' %}active{% endif %}" href="/clubs.html">Clubs</a>
+		  <a class="nav-link {% if pagename == 'clubs' %}active{% endif %}" href="/clubs.html">Clubs</a>
 		</li>
 		<li class="nav-item dropdown">
 		  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
