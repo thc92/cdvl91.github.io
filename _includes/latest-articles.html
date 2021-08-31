@@ -2,7 +2,7 @@
   Affiche les 3 derniers articles dans des Bootstrap Cards.
 {% endcomment %}
 
-{% for post in site.posts limit: 3 %}
+{% for post in site.posts limit: 5 %}
   <div class="card w-100 mb-3 border-2">
     {% if post.thumbnail %}
       {% assign tn_url = post.thumbnail %}
@@ -15,7 +15,7 @@
       </div>
     {% endif %}
     <div class="card-body">
-      <h5 class="card-title fw-bold">{{ post.title | slice: 0, 40 }}</h5>
+      <h5 class="card-title fw-bold">{{ post.title }}</h5>
       <p class="card-text mb-0">{{ post.excerpt | strip_html | slice: 0, 300 | append: "..." }}</p>
       <p class="text-end fst-italic mb-0"><a href="{{ post.url }}" class="link-primary">Lire la suite ...</a></p>
     </div>
