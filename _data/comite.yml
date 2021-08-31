@@ -1,47 +1,51 @@
-- name: Alain Bayle
-  club: ASCEA
-  role: Président
-
 - name: Florence De Raucourt
   club: Les Migrateurs
-  role: Vice-Présidente
+  role: Présidente
 
-- name: Bruno Ferry-Wilczek
-  club: Les Piafs
+- name: Alain Bayle
+  club: ASCEA
+  role: Vice-Président
+
+- name: Didier Domergue
+  club: Les Migrateurs
   role: Secrétaire
 
-- name: Didier
-  club: Domergue
-  role: Secrétaire adjoint
+- name: Nathalie Schmitt
+  club: Les Migrateurs
+  role: Vice-Secrétaire
 
 - name: Hugues Mauras
   club: "Globe Trot'Air"
   role: Trésorier
 
-- name: Ralph Rodriguez
-  club: Les Piafs
-  role: Trésorier adjoint
+- name: Christine Narp
+  club: Les Migrateurs
+  role: Vice-Trésorière
 
 - name: Nathalie Verdier
   club: Les Migrateurs
-  role: Actions féminines
+  role: Commission Féminine
 
-- name: Jacques Dupas
-  club: ASCEA
-  role: Correspondant CNP
+- name: Brigitte Jaegle
+  club: Les Piafs
+  role: Commission Féminine
 
 - name: Alain Robin
   club: COSRL
-  role: Sites et Treuil
+  role: Commission Sites
 
-- name: Christian Jamme
+- name: Ralph Rodriguez
   club: Les Piafs
-  role: Sorties accompagnées
+  role: Commission compétition
 
-- name: Alain Huot
-  club: Les Piafs
-  role: Tyrolienne
+- name: Amina Abdeljalil
+  club: "Globe Trot'Air"
+  role: Commission Jeunes
 
 - name: Sylvain Pigeon
   club: Les Migrateurs
-  role: Animateur Sécurité
+  role: Commission Marche-et-Vol
+
+- name: Jonathan Bayle
+  club: ASCEA
+  role: Communication - Site internet
