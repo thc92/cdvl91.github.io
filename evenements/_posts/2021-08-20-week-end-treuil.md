@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week-end treuil les 21 et 22 aout à Amponville (77)
-date: '2020-08-20T15:30:00.000+02:00'
+date: '2021-08-20T15:30:00.000+02:00'
 author: Jean-loup Morette
 ---
 
