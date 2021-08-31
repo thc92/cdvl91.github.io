@@ -17,4 +17,4 @@ exclude:
   - README.md
   - CNAME
   - '*.xml'
-static: "https://storage.sbg.cloud.ovh.net/v1/AUTH_33a72e9a825849d88ef0ec4dcbc85793/cdvl-data"
+static: "http://static.cdvl91.fr"
