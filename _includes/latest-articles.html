@@ -6,8 +6,8 @@
   <div class="card w-100 mb-3 border-2">
     {% if post.thumbnail %}
       {% assign tn_url = post.thumbnail %}
-      {% assign has_scheme = "http" == post.thumbnail | slice: 0,4 %}
-      {% if has_scheme == false and site.static %}
+      {% assign tn_prefix = post.thumbnail | slice: 0,4 %}
+      {% if tn_prefix != "http" and site.static %}
         {% assign tn_url = tn_url | prepend: "/" | prepend: site.static %}
       {% endif %}
       <div class="w-100" style="max-height: 200px">
