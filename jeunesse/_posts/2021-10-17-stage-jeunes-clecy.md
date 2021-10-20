@@ -27,14 +27,14 @@ Vous êtes au top !
 ci-joint quelques mots écrits par les participants :
 
 J’ai adoré ce séjour, il y avait une très bonne ambiance, très sympa. J’aimerais bien le refaire ! J’ai pu faire
-mon premier vol, il y avait beaucoup d’émotions, aussi beaucoup de stress, mais une fois le vol passé, tout allait mieux.
+mon premier vol, il y avait beaucoup d’émotions, aussi beaucoup de stress, mais une fois le vol passé, tout allait mieux.  
 **Camille**
 
 J’ai vraiment adoré ce stage de parapente, je n’avais jamais vraiment volé en parapente. Mais cette semaine,
 j’ai pu faire mon premier grand vol. Le beau temps était au rendez-vous et m’a permis de profiter pleinement de ce
 moment unique. Le gite était très bien, très propre, très agréable. On s’est beaucoup amusé tous ensemble, que ce soit
 dans les moments de pratique du parapente ou bien le soir lors des différentes activités.  
-Je vous remercie de nous avoir permis de participer à ce stage. Cette semaine restera inoubliable.
+Je vous remercie de nous avoir permis de participer à ce stage. Cette semaine restera inoubliable.  
 **Émeline**
 
 Pour résumer cette semaine, je commencerai par l’ambiance : rigolades, détendue et enjouée.
@@ -44,7 +44,7 @@ son premier grand vol. Plus personnellement, maintenant, ce camp m’a permis d�
 et d’augmenter ma jeune expérience de parapentiste. Le professionnalisme des moniteurs, Samy et Max ainsi que la
 précieuse aide des professeurs qui nous accompagnaient, m’ont permis de réaliser mes premiers vols en autonomie complète.
 Et c’est pour cela que je tiens à remercier tous ceux qui ont permis à moi, un jeune de banlieue parisienne,
-d’accéder à cette activité de dingue !
+d’accéder à cette activité de dingue !  
 **Johan**
 
 Durant cette semaine de stage, j’ai pu faire mon premier vol : quelles sensations ! Un moment incroyable gravé dans ma
@@ -52,19 +52,19 @@ mémoire. Les conditions météo étaient incroyables, les moniteurs étaient su
 progression, leurs conseils étaient toujours pertinents. Une semaine de souvenirs mémorables, de rires, de partage, de
 bonne humeur. On a pu rencontrer les personnes d’un autre lycée : de merveilleuses rencontres.
 Conclusion : une excellente semaine avec des profs, des monos et des camarades vraiment inoubliables.  
-Merci aux organisateurs de cette sublime semaine.
+Merci aux organisateurs de cette sublime semaine.  
 **Mewen**
 
 J’ai adoré ce séjour, il y avait une bonne ambiance et nous avons pu échanger avec beaucoup de personnes.
 Les adultes présents lors de ce stage nous ont beaucoup appris et je les remercie.  
-Ce stage m’a d’autant plus laissé vivre une expérience incroyable.
+Ce stage m’a d’autant plus laissé vivre une expérience incroyable.  
 **Chiara**
 
 Merci à la fédération française de vol libre pour ce fabuleux stage rempli de sensations fortes. Ayant déjà eu une année
 de pratique de parapente avec le lycée, ce stage m’a permis de m’améliorer plus rapidement.
 J’ai pu faire mon premier grand vol, chose que je n’aurais pas cru faire de sitôt.  
 Je tenais aussi à remercier Maxime et Samy, les moniteurs de parapente, qui ont été très pédagogues et agréables tout
-au long du stage. Nous avons eu beaucoup de chance de pouvoir participer à ce stage donc merci à vous !
+au long du stage. Nous avons eu beaucoup de chance de pouvoir participer à ce stage donc merci à vous !  
 **Gabin**
 
 Je vous remercie pour cette agréable semaine. J’ai adoré ce stage car tout était parfait. Concernant la nourriture,
@@ -82,7 +82,7 @@ les accompagnateurs et le corps enseignant. Ils ont été très efficaces. En tr
 gonflages en autonomie, effectuer une vérification de la voile et de la sellette, puis, au 4ème jour, effectuer notre
 premier vol. De plus, nous avons profité de conditions météo très avantageuses pour débuter.  
 Ce stage est donc une super opportunité pour progresser, vivre une forte expérience, très marquante et rencontrer de
-nouvelles personnes.
+nouvelles personnes.  
 **Arthur**
 
 Je vous remercie pour cette expérience incroyable. Ce séjour m’a permis de voler pour la première fois. J’ai pu réaliser
@@ -90,7 +90,7 @@ trois grands vols. Ces vols m’ont apporté un sentiment de liberté incroyable
 sensations fortes. Cette activité n’est pas forcément accessible à tous alors c’est une grande chance de pouvoir
 pratiquer le parapente.  
 Ce séjour a été encore plus agréable grâce à la présence des moniteurs Samy et Max, ainsi que Sophie, Angélique, Hugues
-et Eric.
+et Eric.  
 **Zeineb**
 
 J’ai beaucoup apprécié ce séjour, les plats étaient très bons, l’organisation parfaite et l’ambiance géniale. Le premier
@@ -104,7 +104,7 @@ J’ai pu effectuer 4 grands vols pour l’instant et j’espère pouvoir contin
 extraordinaire à faire. Je suis très consciente que ce n’est pas une activité accessible à tous, donc je vous suis très
 reconnaissante de m’avoir donné cette chance.  
 Je voudrais remercier les accompagnateurs et les moniteurs, Samy, Maxime, Eric, Sophie, Angélique et Hugues pour ce
-superbe séjour.
+superbe séjour.  
 **Maylisse**
 
 J’ai bien aimé ce séjour parapente à Clécy. Cela fait 2 ans que je fais du parapente avec le lycée et cela m’a vraiment
@@ -112,13 +112,13 @@ fait plaisir de participer à ce stage. C’était mon premier vol. J’ai fait 
 nouveau sport à sensations en plus sur ma liste (spéléologie, rafting, canyoning, via ferrata). Donc cela m’a comblé de
 plaisir.  
 Je remercie les organisateurs de ce séjour ainsi que la fédération de faire découvrir le parapente à des lycéens comme
-moi et de pouvoir organiser des séjours comme celui-ci.
+moi et de pouvoir organiser des séjours comme celui-ci.  
 **Pierre-Yves**
 
 J’ai bien aimé ce séjour. L’équipe des profs était cool. Tous les jours, au menu, des bons petits plats. Une bonne
 ambiance au sein du groupe. On a fait du gonflage les premiers jours. Puis les derniers jours, nous avons fait des
 grands vols. Les conditions étaient très bien, plutôt agréables.  
-Le rire est mis à l’honneur, des chansons sont chantées. On fait de la guitare et on se raconte nos aventures.
+Le rire est mis à l’honneur, des chansons sont chantées. On fait de la guitare et on se raconte nos aventures.  
 **Camron**
 
 Bonjour, je suis la maman de Gabin, nous tenions à vous remercier ainsi que tous les autres accompagnateurs pour ce
