@@ -73,7 +73,7 @@ ménagères c’est cool, car tout le monde met la main à la pâte et on s’en
 blessée mais en oubliant cet accident, les profs de parapente nous ont tout expliqué correctement. Si on fait quelque
 chose de négatif, ils nous reprennent sans crier, donc c’est motivant. Pour finir, les profs des deux lycées sont supers
 gentilles, à l’écoute. Merci aussi à Hugues et Eric pour leur gentillesse et d’avoir toujours le sourire.  
-Encore un énorme merci à Mme Trescartes pour la petite soirée aux urgences et d’avoir pris le temps de patienter.
+Encore un énorme merci à Mme Trescartes pour la petite soirée aux urgences et d’avoir pris le temps de patienter.  
 **Eva**
 
 Je suis entré dans la pratique du parapente au stage de Clécy. Ce stage m’a permis d’acquérir énormément d’expérience,
@@ -94,7 +94,7 @@ et Eric.
 **Zeineb**
 
 J’ai beaucoup apprécié ce séjour, les plats étaient très bons, l’organisation parfaite et l’ambiance géniale. Le premier
-vol était vraiment émouvant et plein de sensations. J’espère vraiment pouvoir assister à un autre séjour de ce genre.
+vol était vraiment émouvant et plein de sensations. J’espère vraiment pouvoir assister à un autre séjour de ce genre.  
 **Tatiana**
 
 J’ai énormément apprécié ce stage, ça m’a permis d’en apprendre un peu plus sur le parapente, de pouvoir découvrir les
