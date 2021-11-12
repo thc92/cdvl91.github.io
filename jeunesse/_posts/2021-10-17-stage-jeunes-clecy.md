@@ -22,7 +22,9 @@ Il a fallu prendre la décision d’un retour en région parisienne sans pouvoir
 Un grand merci aux équipes sur place et bénévoles : Hugues, Éric, Angélique, Sami et Suzanne.  
 Vous êtes au top !
 
-[![]({{ site.static }}/jeunesse/clecy_2021_2.jpeg)]({{ site.static }}/jeunesse/clecy_2021_2.jpeg)
+<div class="ratio ratio-16x9">
+  <iframe src="https://drive.google.com/file/d/1ZQIl60R7_ez_cRM2FQF5B64u1noZ9tKp/preview" title="YouTube video" allowfullscreen></iframe>
+</div>
 
 ci-joint quelques mots écrits par les participants :
 
@@ -75,6 +77,8 @@ chose de négatif, ils nous reprennent sans crier, donc c’est motivant. Pour f
 gentilles, à l’écoute. Merci aussi à Hugues et Eric pour leur gentillesse et d’avoir toujours le sourire.  
 Encore un énorme merci à Mme Trescartes pour la petite soirée aux urgences et d’avoir pris le temps de patienter.  
 **Eva**
+
+[![]({{ site.static }}/jeunesse/clecy_2021_2.jpeg)]({{ site.static }}/jeunesse/clecy_2021_2.jpeg)
 
 Je suis entré dans la pratique du parapente au stage de Clécy. Ce stage m’a permis d’acquérir énormément d’expérience,
 que je n’aurais pas acquise sur les buttes de Courcouronnes. L’ambiance était très conviviale, très agréable, tout comme
