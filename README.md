@@ -29,6 +29,8 @@ exemple: *jeunesse/_posts/2021-10-17-stage-jeunes-clecy.md*
 
 Au début du fichier, insérez le cartouche qui contient le titre, la date, l'auteur et la vignette à utiliser.
 
+Pour la vignette n'importe quelle largeur peut être utilisée, mais une hauteur de 400px mini permet un meilleur rendu sur les écrans High DPI.
+
 exemple:
 ```yaml
 ---
