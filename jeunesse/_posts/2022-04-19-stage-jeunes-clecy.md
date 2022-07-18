@@ -27,6 +27,8 @@ notre premier grand vol après avoir répété mentalement le plan de vol. Si no
 pilotage était encore assez maladroit. Les consignes étaient souvent répétées surtout au moment de l’atterrissage où
 nous arrivions pour certains sur les fesses ou à plat ventre voire perché dans un arbre pour l’une d’entre nous.
 
+<iframe allowfullscreen class="YOUTUBE-iframe-video" src="https://drive.google.com/file/d/1AE0M76tuo-Y6YBksmYiBDGhRTajcosLn/preview" width="640" height="480"></iframe>
+
 Le jeudi fut une très belle journée, le matin 2 vols sur le déco sud puis départ pour le bord de mer à Vierville.
 Le vent était faible, un dénivelé de 40 m avec des vols de moins d’une minute, une grande plage de sable ou nous
 attendait Françoise qui s’assurait de notre bonne gestuelle de trajectoire de prise de terrain d’atterrissage.
