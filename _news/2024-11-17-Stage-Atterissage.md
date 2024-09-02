@@ -1,5 +1,5 @@
 ---
-title: Stage: Atterrissage en milieu contraint
+title: "Stage : Atterrissage en milieu contraint"
 ---
 
 Ce stage vous permettra de disposer d'outils spécifiques pour développer votre phase d'atterrissage en campagne (vache)...
